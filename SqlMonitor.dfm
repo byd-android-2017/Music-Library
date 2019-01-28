@@ -33,8 +33,6 @@ object SqlMonitorForm: TSqlMonitorForm
     Align = alClient
     ScrollBars = ssVertical
     TabOrder = 0
-    ExplicitWidth = 582
-    ExplicitHeight = 272
   end
   object PanelBottom: TPanel
     Left = 0

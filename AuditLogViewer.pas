@@ -1,10 +1,15 @@
+/// <summary>
+///  事件跟踪审计窗体
+/// </summary>
+
 unit AuditLogViewer;
 
 interface
 
 uses
   Generics.Collections, Windows, Messages, SysUtils, Variants, Classes, Graphics, Controls, Forms,
-  Dialogs, ExtCtrls, StdCtrls, Aurelius.Mapping.Explorer, Aurelius.Events.Manager;
+  Dialogs, ExtCtrls, StdCtrls,
+  Aurelius.Mapping.Explorer, Aurelius.Events.Manager;
 
 type
   TAuditLogForm = class(TForm)
@@ -18,12 +23,13 @@ type
   private
     class var
       FInstance: TAuditLogForm;
-  private
+  strict private
     FInsertedProc: TInsertedProc;
     FDeletedProc: TDeletedProc;
     FUpdatedProc: TUpdatedProc;
     FCollectionItemAddedProc: TCollectionItemAddedProc;
     FCollectionItemRemovedProc: TCollectionItemRemovedProc;
+
     procedure InsertedHandler(Args: TInsertedArgs);
     procedure DeletedHandler(Args: TDeletedArgs);
     procedure UpdatedHandler(Args: TUpdatedArgs);
@@ -36,7 +42,11 @@ type
     procedure SubscribeListeners;
     procedure UnsubscribeListeners;
   public
+    /// <summary>
+    /// 单例：返回事件跟踪审计窗体实例
+    /// </summary>
     class function GetInstance: TAuditLogForm;
+
     constructor Create(AOwner: TComponent); override;
   end;
 
@@ -47,22 +57,75 @@ uses
 
 {$R *.dfm}
 
+class function TAuditLogForm.GetInstance: TAuditLogForm;
+begin
+  if FInstance = nil then
+    FInstance := TAuditLogForm.Create(Application);
+  Result := FInstance;
+end;
+
+constructor TAuditLogForm.Create(AOwner: TComponent);
+begin
+  inherited;
+  FInsertedProc := InsertedHandler;
+  FDeletedProc := DeletedHandler;
+  FUpdatedProc := UpdatedHandler;
+  FCollectionItemAddedProc := CollectionItemAddedHandler;
+  FCollectionItemRemovedProc := CollectionItemRemovedHandler;
+  SubscribeListeners;
+end;
+
+procedure TAuditLogForm.SubscribeListeners;
+var
+  E: TManagerEvents;
+begin
+  E := TMappingExplorer.Default.Events;
+  E.OnInserted.Subscribe(FInsertedProc);
+  E.OnUpdated.Subscribe(FUpdatedProc);
+  E.OnDeleted.Subscribe(FDeletedProc);
+  E.OnCollectionItemAdded.Subscribe(FCollectionItemAddedProc);
+  E.OnCollectionItemRemoved.Subscribe(FCollectionItemRemovedProc);
+end;
+
+procedure TAuditLogForm.InsertedHandler(Args: TInsertedArgs);
+begin
+  Log(Format('Inserted: %s', [EntityDesc(Args.Entity, Args.Manager)]));
+  BreakLine;
+end;
+
+function TAuditLogForm.EntityDesc(Entity, Manager: TObject): string;
+var
+  IdValue: Variant;
+  IdString: string;
+begin
+  IdValue :=  TObjectManager(Manager).Explorer.GetIdValue(Entity);
+  IdString := TUtils.VariantToString(IdValue);
+  Result := Format('%s(%s)', [Entity.ClassName, IdString]);
+end;
+
 procedure TAuditLogForm.BreakLine;
 begin
   Memo.Lines.Add('================================================');
 end;
 
-procedure TAuditLogForm.btClearClick(Sender: TObject);
+procedure TAuditLogForm.DeletedHandler(Args: TDeletedArgs);
 begin
-  Memo.Clear;
+  Log(Format('Deleted: %s', [EntityDesc(Args.Entity, Args.Manager)]));
+  BreakLine;
 end;
 
-procedure TAuditLogForm.cbEnableClick(Sender: TObject);
+procedure TAuditLogForm.UpdatedHandler(Args: TUpdatedArgs);
+var
+  Pair: TPair<string, Variant>;
+  OldValue: Variant;
 begin
-  if cbEnable.Checked then
-    SubscribeListeners
-  else
-    UnsubscribeListeners;
+  Log(Format('Updated: %s', [EntityDesc(Args.Entity, Args.Manager)]));
+
+  for Pair in Args.NewColumnValues do
+    if not (Args.OldColumnValues.TryGetValue(Pair.Key, OldValue) and (OldValue = Pair.Value)) then
+      Log(Format('   %s Changed from "%s" to "%s"',
+        [Pair.Key, TUtils.VariantToString(OldValue), TUtils.VariantToString(Pair.Value)]));
+  BreakLine;
 end;
 
 procedure TAuditLogForm.CollectionItemAddedHandler(Args: TCollectionItemAddedArgs);
@@ -81,61 +144,17 @@ begin
      Args.MemberName]));
 end;
 
-constructor TAuditLogForm.Create(AOwner: TComponent);
+procedure TAuditLogForm.btClearClick(Sender: TObject);
 begin
-  inherited;
-  FInsertedProc := InsertedHandler;
-  FDeletedProc := DeletedHandler;
-  FUpdatedProc := UpdatedHandler;
-  FCollectionItemAddedProc := CollectionItemAddedHandler;
-  FCollectionItemRemovedProc := CollectionItemRemovedHandler;
-  SubscribeListeners;
+  Memo.Clear;
 end;
 
-procedure TAuditLogForm.DeletedHandler(Args: TDeletedArgs);
+procedure TAuditLogForm.cbEnableClick(Sender: TObject);
 begin
-  Log(Format('Deleted: %s', [EntityDesc(Args.Entity, Args.Manager)]));
-  BreakLine;
-end;
-
-function TAuditLogForm.EntityDesc(Entity, Manager: TObject): string;
-var
-  IdValue: Variant;
-  IdString: string;
-begin
-  IdValue :=  TObjectManager(Manager).Explorer.GetIdValue(Entity);
-  IdString := TUtils.VariantToString(IdValue);
-  Result := Format('%s(%s)', [Entity.ClassName, IdString]);
-end;
-
-class function TAuditLogForm.GetInstance: TAuditLogForm;
-begin
-  if FInstance = nil then
-    FInstance := TAuditLogForm.Create(Application);
-  Result := FInstance;
-end;
-
-procedure TAuditLogForm.InsertedHandler(Args: TInsertedArgs);
-begin
-  Log(Format('Inserted: %s', [EntityDesc(Args.Entity, Args.Manager)]));
-  BreakLine;
-end;
-
-procedure TAuditLogForm.Log(const S: string);
-begin
-  Memo.Lines.Add(S);
-end;
-
-procedure TAuditLogForm.SubscribeListeners;
-var
-  E: TManagerEvents;
-begin
-  E := TMappingExplorer.Default.Events;
-  E.OnInserted.Subscribe(FInsertedProc);
-  E.OnUpdated.Subscribe(FUpdatedProc);
-  E.OnDeleted.Subscribe(FDeletedProc);
-  E.OnCollectionItemAdded.Subscribe(FCollectionItemAddedProc);
-  E.OnCollectionItemRemoved.Subscribe(FCollectionItemRemovedProc);
+  if cbEnable.Checked then
+    SubscribeListeners
+  else
+    UnsubscribeListeners;
 end;
 
 procedure TAuditLogForm.UnsubscribeListeners;
@@ -150,17 +169,10 @@ begin
   E.OnCollectionItemRemoved.Unsubscribe(FCollectionItemRemovedProc);
 end;
 
-procedure TAuditLogForm.UpdatedHandler(Args: TUpdatedArgs);
-var
-  Pair: TPair<string, Variant>;
-  OldValue: Variant;
+
+procedure TAuditLogForm.Log(const S: string);
 begin
-  Log(Format('Updated: %s', [EntityDesc(Args.Entity, Args.Manager)]));
-  for Pair in Args.NewColumnValues do
-    if not (Args.OldColumnValues.TryGetValue(Pair.Key, OldValue) and (OldValue = Pair.Value)) then
-      Log(Format('   %s Changed from "%s" to "%s"',
-        [Pair.Key, TUtils.VariantToString(OldValue), TUtils.VariantToString(Pair.Value)]));
-  BreakLine;
+  Memo.Lines.Add(S);
 end;
 
 end.
