@@ -1,0 +1,2130 @@
+TrackId,Name,AlbumId,GenreId,Composer,Milliseconds
+1,For Those About To Rock (We Salute You),1,1,"Angus Young, Malcolm Young, Brian Johnson",343719
+2,Balls to the Wall,2,1,"",342562
+3,Fast As a Shark,3,1,"F. Baltes, S. Kaufman, U. Dirkscneider & W. Hoffman",230619
+4,Restless and Wild,3,1,"F. Baltes, R.A. Smith-Diesel, S. Kaufman, U. Dirkscneider & W. Hoffman",252051
+5,Princess of the Dawn,3,1,Deaffy & R.A. Smith-Diesel,375418
+6,Put The Finger On You,1,1,"Angus Young, Malcolm Young, Brian Johnson",205662
+7,"Let's Get It Up",1,1,"Angus Young, Malcolm Young, Brian Johnson",233926
+8,Inject The Venom,1,1,"Angus Young, Malcolm Young, Brian Johnson",210834
+9,Snowballed,1,1,"Angus Young, Malcolm Young, Brian Johnson",203102
+10,Evil Walks,1,1,"Angus Young, Malcolm Young, Brian Johnson",263497
+11,C.O.D.,1,1,"Angus Young, Malcolm Young, Brian Johnson",199836
+12,Breaking The Rules,1,1,"Angus Young, Malcolm Young, Brian Johnson",263288
+13,Night Of The Long Knives,1,1,"Angus Young, Malcolm Young, Brian Johnson",205688
+14,Spellbound,1,1,"Angus Young, Malcolm Young, Brian Johnson",270863
+15,Go Down,4,1,AC/DC,331180
+16,Dog Eat Dog,4,1,AC/DC,215196
+17,Let There Be Rock,4,1,AC/DC,366654
+18,Bad Boy Boogie,4,1,AC/DC,267728
+19,Problem Child,4,1,AC/DC,325041
+20,Overdose,4,1,AC/DC,369319
+21,"Hell Ain't A Bad Place To Be",4,1,AC/DC,254380
+22,Whole Lotta Rosie,4,1,AC/DC,323761
+23,Walk On Water,5,1,"Steven Tyler, Joe Perry, Jack Blades, Tommy Shaw",295680
+24,Love In An Elevator,5,1,"Steven Tyler, Joe Perry",321828
+25,Rag Doll,5,1,"Steven Tyler, Joe Perry, Jim Vallance, Holly Knight",264698
+26,What It Takes,5,1,"Steven Tyler, Joe Perry, Desmond Child",310622
+27,Dude (Looks Like A Lady),5,1,"Steven Tyler, Joe Perry, Desmond Child",264855
+28,"Janie's Got A Gun",5,1,"Steven Tyler, Tom Hamilton",330736
+29,"Cryin'",5,1,"Steven Tyler, Joe Perry, Taylor Rhodes",309263
+30,Amazing,5,1,"Steven Tyler, Richie Supa",356519
+31,Blind Man,5,1,"Steven Tyler, Joe Perry, Taylor Rhodes",240718
+32,Deuces Are Wild,5,1,"Steven Tyler, Jim Vallance",215875
+33,The Other Side,5,1,"Steven Tyler, Jim Vallance",244375
+34,Crazy,5,1,"Steven Tyler, Joe Perry, Desmond Child",316656
+35,Eat The Rich,5,1,"Steven Tyler, Joe Perry, Jim Vallance",251036
+36,Angel,5,1,"Steven Tyler, Desmond Child",307617
+37,"Livin' On The Edge",5,1,"Steven Tyler, Joe Perry, Mark Hudson",381231
+38,All I Really Want,6,1,Alanis Morissette & Glenn Ballard,284891
+39,You Oughta Know,6,1,Alanis Morissette & Glenn Ballard,249234
+40,Perfect,6,1,Alanis Morissette & Glenn Ballard,188133
+41,Hand In My Pocket,6,1,Alanis Morissette & Glenn Ballard,221570
+42,Right Through You,6,1,Alanis Morissette & Glenn Ballard,176117
+43,Forgiven,6,1,Alanis Morissette & Glenn Ballard,300355
+44,You Learn,6,1,Alanis Morissette & Glenn Ballard,239699
+45,Head Over Feet,6,1,Alanis Morissette & Glenn Ballard,267493
+46,Mary Jane,6,1,Alanis Morissette & Glenn Ballard,280607
+47,Ironic,6,1,Alanis Morissette & Glenn Ballard,229825
+48,Not The Doctor,6,1,Alanis Morissette & Glenn Ballard,227631
+49,Wake Up,6,1,Alanis Morissette & Glenn Ballard,293485
+50,You Oughta Know (Alternate),6,1,Alanis Morissette & Glenn Ballard,491885
+51,We Die Young,7,1,Jerry Cantrell,152084
+52,Man In The Box,7,1,"Jerry Cantrell, Layne Staley",286641
+53,Sea Of Sorrow,7,1,Jerry Cantrell,349831
+54,Bleed The Freak,7,1,Jerry Cantrell,241946
+55,"I Can't Remember",7,1,"Jerry Cantrell, Layne Staley",222955
+56,"Love, Hate, Love",7,1,"Jerry Cantrell, Layne Staley",387134
+57,"It Ain't Like That",7,1,"Jerry Cantrell, Michael Starr, Sean Kinney",277577
+58,Sunshine,7,1,Jerry Cantrell,284969
+59,Put You Down,7,1,Jerry Cantrell,196231
+60,Confusion,7,1,"Jerry Cantrell, Michael Starr, Layne Staley",344163
+61,I Know Somethin (Bout You),7,1,Jerry Cantrell,261955
+62,Real Thing,7,1,"Jerry Cantrell, Layne Staley",243879
+85,Cochise,10,1,Audioslave/Chris Cornell,222380
+86,Show Me How to Live,10,1,Audioslave/Chris Cornell,277890
+87,Gasoline,10,1,Audioslave/Chris Cornell,279457
+88,What You Are,10,1,Audioslave/Chris Cornell,249391
+89,Like a Stone,10,1,Audioslave/Chris Cornell,294034
+90,Set It Off,10,1,Audioslave/Chris Cornell,263262
+91,Shadow on the Sun,10,1,Audioslave/Chris Cornell,343457
+92,I am the Highway,10,1,Audioslave/Chris Cornell,334942
+93,Exploder,10,1,Audioslave/Chris Cornell,206053
+94,Hypnotize,10,1,Audioslave/Chris Cornell,206628
+95,"Bring'em Back Alive",10,1,Audioslave/Chris Cornell,329534
+96,Light My Way,10,1,Audioslave/Chris Cornell,303595
+97,Getaway Car,10,1,Audioslave/Chris Cornell,299598
+98,The Last Remaining Light,10,1,Audioslave/Chris Cornell,317492
+99,Your Time Has Come,11,4,"Cornell, Commerford, Morello, Wilk",255529
+100,Out Of Exile,11,4,"Cornell, Commerford, Morello, Wilk",291291
+101,Be Yourself,11,4,"Cornell, Commerford, Morello, Wilk",279484
+102,"Doesn't Remind Me",11,4,"Cornell, Commerford, Morello, Wilk",255869
+103,Drown Me Slowly,11,4,"Cornell, Commerford, Morello, Wilk",233691
+104,"Heaven's Dead",11,4,"Cornell, Commerford, Morello, Wilk",276688
+105,The Worm,11,4,"Cornell, Commerford, Morello, Wilk",237714
+106,Man Or Animal,11,4,"Cornell, Commerford, Morello, Wilk",233195
+107,Yesterday To Tomorrow,11,4,"Cornell, Commerford, Morello, Wilk",273763
+108,Dandelion,11,4,"Cornell, Commerford, Morello, Wilk",278125
+109,#1 Zero,11,4,"Cornell, Commerford, Morello, Wilk",299102
+110,The Curse,11,4,"Cornell, Commerford, Morello, Wilk",309786
+123,Quadrant,13,2,Billy Cobham,261851
+124,"Snoopy's search-Red baron",13,2,Billy Cobham,456071
+125,"Spanish moss-'A sound portrait'-Spanish moss",13,2,Billy Cobham,248084
+126,Moon germs,13,2,Billy Cobham,294060
+127,Stratus,13,2,Billy Cobham,582086
+128,The pleasant pheasant,13,2,Billy Cobham,318066
+129,Solo-Panhandler,13,2,Billy Cobham,246151
+130,Do what cha wanna,13,2,George Duke,274155
+131,Intro/ Low Down,14,3,"",323683
+132,13 Years Of Grief,14,3,"",246987
+133,Stronger Than Death,14,3,"",300747
+134,All For You,14,3,"",235833
+135,Super Terrorizer,14,3,"",319373
+136,Phoney Smile Fake Hellos,14,3,"",273606
+137,Lost My Better Half,14,3,"",284081
+138,Bored To Tears,14,3,"",247327
+139,A.N.D.R.O.T.A.Z.,14,3,"",266266
+140,Born To Booze,14,3,"",282122
+141,World Of Trouble,14,3,"",359157
+142,No More Tears,14,3,"",555075
+143,The Begining... At Last,14,3,"",365662
+144,Heart Of Gold,15,3,"",194873
+145,Snowblind,15,3,"",420022
+146,Like A Bird,15,3,"",276532
+147,Blood In The Wall,15,3,"",284368
+148,The Beginning...At Last,15,3,"",271960
+149,Black Sabbath,16,3,"",382066
+150,The Wizard,16,3,"",264829
+151,Behind The Wall Of Sleep,16,3,"",217573
+152,N.I.B.,16,3,"",368770
+153,Evil Woman,16,3,"",204930
+154,Sleeping Village,16,3,"",644571
+155,Warning,16,3,"",212062
+156,Wheels Of Confusion / The Straightener,17,3,"Tony Iommi, Bill Ward, Geezer Butler, Ozzy Osbourne",494524
+157,"Tomorrow's Dream",17,3,"Tony Iommi, Bill Ward, Geezer Butler, Ozzy Osbourne",192496
+158,Changes,17,3,"Tony Iommi, Bill Ward, Geezer Butler, Ozzy Osbourne",286275
+159,FX,17,3,"Tony Iommi, Bill Ward, Geezer Butler, Ozzy Osbourne",103157
+160,Supernaut,17,3,"Tony Iommi, Bill Ward, Geezer Butler, Ozzy Osbourne",285779
+161,Snowblind,17,3,"Tony Iommi, Bill Ward, Geezer Butler, Ozzy Osbourne",331676
+162,Cornucopia,17,3,"Tony Iommi, Bill Ward, Geezer Butler, Ozzy Osbourne",234814
+163,Laguna Sunrise,17,3,"Tony Iommi, Bill Ward, Geezer Butler, Ozzy Osbourne",173087
+164,St. Vitus Dance,17,3,"Tony Iommi, Bill Ward, Geezer Butler, Ozzy Osbourne",149655
+165,Under The Sun/Every Day Comes and Goes,17,3,"Tony Iommi, Bill Ward, Geezer Butler, Ozzy Osbourne",350458
+166,Smoked Pork,18,4,"",47333
+167,"Body Count's In The House",18,4,"",204251
+168,Now Sports,18,4,"",4884
+169,Body Count,18,4,"",317936
+170,A Statistic,18,4,"",6373
+171,Bowels Of The Devil,18,4,"",223216
+172,The Real Problem,18,4,"",11650
+173,KKK Bitch,18,4,"",173008
+174,D Note,18,4,"",95738
+175,Voodoo,18,4,"",300721
+176,The Winner Loses,18,4,"",392254
+177,There Goes The Neighborhood,18,4,"",350171
+178,Oprah,18,4,"",6635
+179,Evil Dick,18,4,"",239020
+180,Body Count Anthem,18,4,"",166426
+181,"Momma's Gotta Die Tonight",18,4,"",371539
+182,Freedom Of Speech,18,4,"",281234
+183,King In Crimson,19,3,Roy Z,283167
+184,Chemical Wedding,19,3,Roy Z,246177
+185,The Tower,19,3,Roy Z,285257
+186,Killing Floor,19,3,Adrian Smith,269557
+187,Book Of Thel,19,3,Eddie Casillas/Roy Z,494393
+188,Gates Of Urizen,19,3,Roy Z,265351
+189,Jerusalem,19,3,Roy Z,402390
+190,Trupets Of Jericho,19,3,Roy Z,359131
+191,Machine Men,19,3,Adrian Smith,341655
+192,The Alchemist,19,3,Roy Z,509413
+193,Realword,19,3,Roy Z,237531
+194,First Time I Met The Blues,20,6,Eurreal Montgomery,140434
+195,Let Me Love You Baby,20,6,Willie Dixon,175386
+196,Stone Crazy,20,6,Buddy Guy,433397
+197,Pretty Baby,20,6,Willie Dixon,237662
+198,When My Left Eye Jumps,20,6,Al Perkins/Willie Dixon,235311
+199,Leave My Girl Alone,20,6,Buddy Guy,204721
+200,She Suits Me To A Tee,20,6,Buddy Guy,136803
+201,Keep It To Myself (Aka Keep It To Yourself),20,6,Sonny Boy Williamson [I],166060
+202,My Time After Awhile,20,6,Robert Geddins/Ron Badger/Sheldon Feinberg,182491
+203,Too Many Ways (Alternate),20,6,Willie Dixon,135053
+204,"Talkin' 'Bout Women Obviously",20,6,Amos Blakemore/Buddy Guy,589531
+337,You Shook Me,30,1,J B Lenoir/Willie Dixon,315951
+338,"I Can't Quit You Baby",30,1,Willie Dixon,263836
+339,Communication Breakdown,30,1,Jimmy Page/John Bonham/John Paul Jones,192653
+340,Dazed and Confused,30,1,Jimmy Page,401920
+341,The Girl I Love She Got Long Black Wavy Hair,30,1,Jimmy Page/John Bonham/John Estes/John Paul Jones/Robert Plant,183327
+342,What is and Should Never Be,30,1,Jimmy Page/Robert Plant,260675
+343,Communication Breakdown(2),30,1,Jimmy Page/John Bonham/John Paul Jones,161149
+344,Travelling Riverside Blues,30,1,Jimmy Page/Robert Johnson/Robert Plant,312032
+345,Whole Lotta Love,30,1,Jimmy Page/John Bonham/John Paul Jones/Robert Plant/Willie Dixon,373394
+346,"Somethin' Else",30,1,Bob Cochran/Sharon Sheeley,127869
+347,Communication Breakdown(3),30,1,Jimmy Page/John Bonham/John Paul Jones,185260
+348,"I Can't Quit You Baby(2)",30,1,Willie Dixon,380551
+349,You Shook Me(2),30,1,J B Lenoir/Willie Dixon,619467
+350,How Many More Times,30,1,Chester Burnett/Jimmy Page/John Bonham/John Paul Jones/Robert Plant,711836
+351,Debra Kadabra,31,1,Frank Zappa,234553
+352,Carolina Hard-Core Ecstasy,31,1,Frank Zappa,359680
+353,Sam With The Showing Scalp Flat Top,31,1,Don Van Vliet,171284
+354,"Poofter's Froth Wyoming Plans Ahead",31,1,Frank Zappa,183902
+355,200 Years Old,31,1,Frank Zappa,272561
+356,Cucamonga,31,1,Frank Zappa,144483
+357,Advance Romance,31,1,Frank Zappa,677694
+358,Man With The Woman Head,31,1,Don Van Vliet,88894
+359,Muffin Man,31,1,Frank Zappa,332878
+408,Free Speech For The Dumb,35,3,Molaney/Morris/Roberts/Wainwright,155428
+409,"It's Electric",35,3,Harris/Tatler,213995
+410,Sabbra Cadabra,35,3,Black Sabbath,380342
+411,Turn The Page,35,3,Seger,366524
+412,Die Die My Darling,35,3,Danzig,149315
+413,Loverman,35,3,Cave,472764
+414,Mercyful Fate,35,3,Diamond/Shermann,671712
+415,Astronomy,35,3,A.Bouchard/J.Bouchard/S.Pearlman,397531
+416,Whiskey In The Jar,35,3,Traditional,305005
+417,"Tuesday's Gone",35,3,Collins/Van Zandt,545750
+418,The More I See,35,3,Molaney/Morris/Roberts/Wainwright,287973
+419,A Kind Of Magic,36,1,Roger Taylor,262608
+420,Under Pressure,36,1,Queen & David Bowie,236617
+421,Radio GA GA,36,1,Roger Taylor,343745
+422,I Want It All,36,1,Queen,241684
+423,I Want To Break Free,36,1,John Deacon,259108
+424,Innuendo,36,1,Queen,387761
+425,"It's A Hard Life",36,1,Freddie Mercury,249417
+426,Breakthru,36,1,Queen,249234
+427,Who Wants To Live Forever,36,1,Brian May,297691
+428,Headlong,36,1,Queen,273057
+429,The Miracle,36,1,Queen,294974
+430,"I'm Going Slightly Mad",36,1,Queen,248032
+431,The Invisible Man,36,1,Queen,238994
+432,Hammer To Fall,36,1,Brian May,220316
+433,Friends Will Be Friends,36,1,Freddie Mercury & John Deacon,248920
+434,The Show Must Go On,36,1,Queen,263784
+435,One Vision,36,1,Queen,242599
+436,Detroit Rock City,37,1,"Paul Stanley, B. Ezrin",218880
+437,Black Diamond,37,1,Paul Stanley,314148
+438,Hard Luck Woman,37,1,Paul Stanley,216032
+439,Sure Know Something,37,1,"Paul Stanley, Vincent Poncia",242468
+440,Love Gun,37,1,Paul Stanley,196257
+441,Deuce,37,1,Gene Simmons,185077
+442,"Goin' Blind",37,1,"Gene Simmons, S. Coronel",216215
+443,Shock Me,37,1,Ace Frehley,227291
+444,Do You Love Me,37,1,"Paul Stanley, B. Ezrin, K. Fowley",214987
+445,She,37,1,"Gene Simmons, S. Coronel",248346
+446,I Was Made For Loving You,37,1,"Paul Stanley, Vincent Poncia, Desmond Child",271360
+447,Shout It Out Loud,37,1,"Paul Stanley, Gene Simmons, B. Ezrin",219742
+448,God Of Thunder,37,1,Paul Stanley,255791
+449,Calling Dr. Love,37,1,Gene Simmons,225332
+450,Beth,37,1,"S. Penridge, Bob Ezrin, Peter Criss",166974
+451,Strutter,37,1,"Paul Stanley, Gene Simmons",192496
+452,Rock And Roll All Nite,37,1,"Paul Stanley, Gene Simmons",173609
+453,Cold Gin,37,1,Ace Frehley,262243
+454,Plaster Caster,37,1,Gene Simmons,207333
+455,"God Gave Rock 'n' Roll To You",37,1,"Paul Stanley, Gene Simmons, Rus Ballard, Bob Ezrin",320444
+468,Maria,39,4,Billie Joe Armstrong -Words Green Day -Music,167262
+469,Poprocks And Coke,39,4,Billie Joe Armstrong -Words Green Day -Music,158354
+470,Longview,39,4,Billie Joe Armstrong -Words Green Day -Music,234083
+471,Welcome To Paradise,39,4,Billie Joe Armstrong -Words Green Day -Music,224208
+472,Basket Case,39,4,Billie Joe Armstrong -Words Green Day -Music,181629
+473,When I Come Around,39,4,Billie Joe Armstrong -Words Green Day -Music,178364
+474,She,39,4,Billie Joe Armstrong -Words Green Day -Music,134164
+475,J.A.R. (Jason Andrew Relva),39,4,Mike Dirnt -Words Green Day -Music,170997
+476,Geek Stink Breath,39,4,Billie Joe Armstrong -Words Green Day -Music,135888
+477,Brain Stew,39,4,Billie Joe Armstrong -Words Green Day -Music,193149
+478,Jaded,39,4,Billie Joe Armstrong -Words Green Day -Music,90331
+479,Walking Contradiction,39,4,Billie Joe Armstrong -Words Green Day -Music,151170
+480,Stuck With Me,39,4,Billie Joe Armstrong -Words Green Day -Music,135523
+481,"Hitchin' A Ride",39,4,Billie Joe Armstrong -Words Green Day -Music,171546
+482,Good Riddance (Time Of Your Life),39,4,Billie Joe Armstrong -Words Green Day -Music,153600
+483,Redundant,39,4,Billie Joe Armstrong -Words Green Day -Music,198164
+484,Nice Guys Finish Last,39,4,Billie Joe Armstrong -Words Green Day -Music,170187
+485,Minority,39,4,Billie Joe Armstrong -Words Green Day -Music,168803
+486,Warning,39,4,Billie Joe Armstrong -Words Green Day -Music,221910
+487,Waiting,39,4,Billie Joe Armstrong -Words Green Day -Music,192757
+488,"Macy's Day Parade",39,4,Billie Joe Armstrong -Words Green Day -Music,213420
+489,Into The Light,40,1,David Coverdale,76303
+490,River Song,40,1,David Coverdale,439510
+491,She Give Me ...,40,1,David Coverdale,252551
+492,"Don't You Cry",40,1,David Coverdale,347036
+493,Love Is Blind,40,1,David Coverdale/Earl Slick,344999
+494,Slave,40,1,David Coverdale/Earl Slick,291892
+495,Cry For Love,40,1,Bossi/David Coverdale/Earl Slick,293015
+496,Living On Love,40,1,Bossi/David Coverdale/Earl Slick,391549
+497,Midnight Blue,40,1,David Coverdale/Earl Slick,298631
+498,Too Many Tears,40,1,Adrian Vanderberg/David Coverdale,359497
+499,"Don't Lie To Me",40,1,David Coverdale/Earl Slick,283585
+500,Wherever You May Go,40,1,David Coverdale,239699
+543,Burn,43,1,Coverdale/Lord/Paice,453955
+544,Stormbringer,43,1,Coverdale,277133
+545,Gypsy,43,1,Coverdale/Hughes/Lord/Paice,339173
+546,Lady Double Dealer,43,1,Coverdale,233586
+547,Mistreated,43,1,Coverdale,758648
+548,Smoke On The Water,43,1,Gillan/Glover/Lord/Paice,618031
+549,You Fool No One,43,1,Coverdale/Lord/Paice,804101
+550,Custard Pie,44,1,Jimmy Page/Robert Plant,253962
+551,The Rover,44,1,Jimmy Page/Robert Plant,337084
+552,In My Time Of Dying,44,1,John Bonham/John Paul Jones,666017
+553,Houses Of The Holy,44,1,Jimmy Page/Robert Plant,242494
+554,Trampled Under Foot,44,1,John Paul Jones,336692
+555,Kashmir,44,1,John Bonham,508604
+597,"Now's The Time",48,2,Miles Davis,197459
+598,Jeru,48,2,Miles Davis,193410
+599,Compulsion,48,2,Miles Davis,345025
+600,Tempus Fugit,48,2,Miles Davis,231784
+601,"Walkin'",48,2,Miles Davis,807392
+602,"'Round Midnight",48,2,Miles Davis,357459
+603,Bye Bye Blackbird,48,2,Miles Davis,476003
+604,New Rhumba,48,2,Miles Davis,277968
+605,Generique,48,2,Miles Davis,168777
+606,Summertime,48,2,Miles Davis,200437
+607,So What,48,2,Miles Davis,564009
+608,The Pan Piper,48,2,Miles Davis,233769
+609,Someday My Prince Will Come,48,2,Miles Davis,544078
+610,My Funny Valentine (Live),49,2,Miles Davis,907520
+611,E.S.P.,49,2,Miles Davis,330684
+612,Nefertiti,49,2,Miles Davis,473495
+613,Petits Machins (Little Stuff),49,2,Miles Davis,487392
+614,Miles Runs The Voodoo Down,49,2,Miles Davis,843964
+615,Little Church (Live),49,2,Miles Davis,196101
+616,Black Satin,49,2,Miles Davis,316682
+617,Jean Pierre (Live),49,2,Miles Davis,243461
+618,Time After Time,49,2,Miles Davis,220734
+619,Portia,49,2,Miles Davis,378775
+620,"Space Truckin'",50,1,Blackmore/Gillan/Glover/Lord/Paice,1196094
+621,Going Down / Highway Star,50,1,Gillan/Glover/Lord/Nix - Blackmore/Paice,913658
+622,Mistreated (Alternate Version),50,1,Blackmore/Coverdale,854700
+623,You Fool No One (Alternate Version),50,1,Blackmore/Coverdale/Lord/Paice,763924
+624,Jeepers Creepers,51,2,"",185965
+625,Blue Rythm Fantasy,51,2,"",348212
+626,Drum Boogie,51,2,"",191555
+627,Let Me Off Uptown,51,2,"",187637
+628,Leave Us Leap,51,2,"",182726
+629,Opus No.1,51,2,"",179800
+630,Boogie Blues,51,2,"",204199
+631,How High The Moon,51,2,"",201430
+632,Disc Jockey Jump,51,2,"",193149
+633,"Up An' Atom",51,2,"",179565
+634,Bop Boogie,51,2,"",189596
+635,Lemon Drop,51,2,"",194089
+636,Coronation Drop,51,2,"",176222
+637,Overtime,51,2,"",163030
+638,Imagination,51,2,"",289306
+639,"Don't Take Your Love From Me",51,2,"",282331
+640,Midget,51,2,"",217025
+641,"I'm Coming Virginia",51,2,"",280163
+642,"Payin' Them Dues Blues",51,2,"",198556
+643,Jungle Drums,51,2,"",199627
+644,Showcase,51,2,"",201560
+645,Swedish Schnapps,51,2,"",191268
+675,Susie Q,54,1,Hawkins-Lewis-Broadwater,275565
+676,I Put A Spell On You,54,1,Jay Hawkins,272091
+677,Proud Mary,54,1,J. C. Fogerty,189022
+678,Bad Moon Rising,54,1,J. C. Fogerty,140146
+679,Lodi,54,1,J. C. Fogerty,191451
+680,Green River,54,1,J. C. Fogerty,154279
+681,Commotion,54,1,J. C. Fogerty,162899
+682,Down On The Corner,54,1,J. C. Fogerty,164858
+683,Fortunate Son,54,1,J. C. Fogerty,140329
+684,"Travelin' Band",54,1,J. C. Fogerty,129358
+685,"Who'll Stop The Rain",54,1,J. C. Fogerty,149394
+686,Up Around The Bend,54,1,J. C. Fogerty,162429
+687,Run Through The Jungle,54,1,J. C. Fogerty,186044
+688,"Lookin' Out My Back Door",54,1,J. C. Fogerty,152946
+689,Long As I Can See The Light,54,1,J. C. Fogerty,213237
+690,I Heard It Through The Grapevine,54,1,Whitfield-Strong,664894
+691,Have You Ever Seen The Rain?,54,1,J. C. Fogerty,160052
+692,Hey Tonight,54,1,J. C. Fogerty,162847
+693,Sweet Hitch-Hiker,54,1,J. C. Fogerty,175490
+694,Someday Never Comes,54,1,J. C. Fogerty,239360
+695,Walking On The Water,55,1,J.C. Fogerty,281286
+696,"Suzie-Q, Pt. 2",55,1,J.C. Fogerty,244114
+697,Born On The Bayou,55,1,J.C. Fogerty,316630
+698,Good Golly Miss Molly,55,1,J.C. Fogerty,163604
+699,Tombstone Shadow,55,1,J.C. Fogerty,218880
+700,Wrote A Song For Everyone,55,1,J.C. Fogerty,296385
+701,Night Time Is The Right Time,55,1,J.C. Fogerty,190119
+702,Cotton Fields,55,1,J.C. Fogerty,178181
+703,It Came Out Of The Sky,55,1,J.C. Fogerty,176718
+704,"Don't Look Now",55,1,J.C. Fogerty,131918
+705,The Midnight Special,55,1,J.C. Fogerty,253596
+706,Before You Accuse Me,55,1,J.C. Fogerty,207804
+707,My Baby Left Me,55,1,J.C. Fogerty,140460
+708,Pagan Baby,55,1,J.C. Fogerty,385619
+709,(Wish I Could) Hideaway,55,1,J.C. Fogerty,228466
+710,"It's Just A Thought",55,1,J.C. Fogerty,237374
+711,Molina,55,1,J.C. Fogerty,163239
+712,Born To Move,55,1,J.C. Fogerty,342804
+713,"Lookin' For A Reason",55,1,J.C. Fogerty,209789
+714,Hello Mary Lou,55,1,J.C. Fogerty,132832
+745,"Comin' Home",58,1,Bolin/Coverdale/Paice,235781
+746,Lady Luck,58,1,Cook/Coverdale,168202
+747,"Gettin' Tighter",58,1,Bolin/Hughes,218044
+748,Dealer,58,1,Bolin/Coverdale,230922
+749,I Need Love,58,1,Bolin/Coverdale,263836
+750,Drifter,58,1,Bolin/Coverdale,242834
+751,Love Child,58,1,Bolin/Coverdale,188160
+752,"This Time Around / Owed to 'G' [Instrumental]",58,1,Bolin/Hughes/Lord,370102
+753,You Keep On Moving,58,1,Coverdale/Hughes,319111
+754,Speed King,59,1,"Blackmore, Gillan, Glover, Lord, Paice",264385
+755,Bloodsucker,59,1,"Blackmore, Gillan, Glover, Lord, Paice",256261
+756,Child In Time,59,1,"Blackmore, Gillan, Glover, Lord, Paice",620460
+757,Flight Of The Rat,59,1,"Blackmore, Gillan, Glover, Lord, Paice",478302
+758,Into The Fire,59,1,"Blackmore, Gillan, Glover, Lord, Paice",210259
+759,Living Wreck,59,1,"Blackmore, Gillan, Glover, Lord, Paice",274886
+760,"Hard Lovin' Man",59,1,"Blackmore, Gillan, Glover, Lord, Paice",431203
+761,Fireball,60,1,"Ritchie Blackmore, Ian Gillan, Roger Glover, Jon Lord, Ian Paice",204721
+762,No No No,60,1,"Ritchie Blackmore, Ian Gillan, Roger Glover, Jon Lord, Ian Paice",414902
+763,Strange Kind Of Woman,60,1,"Ritchie Blackmore, Ian Gillan, Roger Glover, Jon Lord, Ian Paice",247092
+764,"Anyone's Daughter",60,1,"Ritchie Blackmore, Ian Gillan, Roger Glover, Jon Lord, Ian Paice",284682
+765,The Mule,60,1,"Ritchie Blackmore, Ian Gillan, Roger Glover, Jon Lord, Ian Paice",322063
+766,Fools,60,1,"Ritchie Blackmore, Ian Gillan, Roger Glover, Jon Lord, Ian Paice",500427
+767,No One Came,60,1,"Ritchie Blackmore, Ian Gillan, Roger Glover, Jon Lord, Ian Paice",385880
+768,Knocking At Your Back Door,61,1,"Richie Blackmore, Ian Gillian, Roger Glover",424829
+769,Bad Attitude,61,1,"Richie Blackmore, Ian Gillian, Roger Glover, Jon Lord",307905
+770,Child In Time (Son Of Aleric - Instrumental),61,1,"Richie Blackmore, Ian Gillian, Roger Glover, Jon Lord, Ian Paice",602880
+771,"Nobody's Home",61,1,"Richie Blackmore, Ian Gillian, Roger Glover, Jon Lord, Ian Paice",243017
+772,Black Night,61,1,"Richie Blackmore, Ian Gillian, Roger Glover, Jon Lord, Ian Paice",368770
+773,Perfect Strangers,61,1,"Richie Blackmore, Ian Gillian, Roger Glover",321149
+774,The Unwritten Law,61,1,"Richie Blackmore, Ian Gillian, Roger Glover, Ian Paice",295053
+775,Call Of The Wild,61,1,"Richie Blackmore, Ian Gillian, Roger Glover, Jon Lord",293851
+776,Hush,61,1,South,213054
+777,Smoke On The Water,61,1,"Richie Blackmore, Ian Gillian, Roger Glover, Jon Lord, Ian Paice",464378
+778,Space Trucking,61,1,"Richie Blackmore, Ian Gillian, Roger Glover, Jon Lord, Ian Paice",341185
+779,Highway Star,62,1,Ian Gillan/Ian Paice/Jon Lord/Ritchie Blckmore/Roger Glover,368770
+780,"Maybe I'm A Leo",62,1,Ian Gillan/Ian Paice/Jon Lord/Ritchie Blckmore/Roger Glover,290455
+781,Pictures Of Home,62,1,Ian Gillan/Ian Paice/Jon Lord/Ritchie Blckmore/Roger Glover,303777
+782,Never Before,62,1,Ian Gillan/Ian Paice/Jon Lord/Ritchie Blckmore/Roger Glover,239830
+783,Smoke On The Water,62,1,Ian Gillan/Ian Paice/Jon Lord/Ritchie Blckmore/Roger Glover,340871
+784,Lazy,62,1,Ian Gillan/Ian Paice/Jon Lord/Ritchie Blckmore/Roger Glover,442096
+785,"Space Truckin'",62,1,Ian Gillan/Ian Paice/Jon Lord/Ritchie Blckmore/Roger Glover,272796
+786,Vavoom : Ted The Mechanic,63,1,"Ian Gillan, Roger Glover, Jon Lord, Steve Morse, Ian Paice",257384
+787,Loosen My Strings,63,1,"Ian Gillan, Roger Glover, Jon Lord, Steve Morse, Ian Paice",359680
+788,Soon Forgotten,63,1,"Ian Gillan, Roger Glover, Jon Lord, Steve Morse, Ian Paice",287791
+789,Sometimes I Feel Like Screaming,63,1,"Ian Gillan, Roger Glover, Jon Lord, Steve Morse, Ian Paice",451840
+790,"Cascades : I'm Not Your Lover",63,1,"Ian Gillan, Roger Glover, Jon Lord, Steve Morse, Ian Paice",283689
+791,The Aviator,63,1,"Ian Gillan, Roger Glover, Jon Lord, Steve Morse, Ian Paice",320992
+792,"Rosa's Cantina",63,1,"Ian Gillan, Roger Glover, Jon Lord, Steve Morse, Ian Paice",312372
+793,A Castle Full Of Rascals,63,1,"Ian Gillan, Roger Glover, Jon Lord, Steve Morse, Ian Paice",311693
+794,A Touch Away,63,1,"Ian Gillan, Roger Glover, Jon Lord, Steve Morse, Ian Paice",276323
+795,Hey Cisco,63,1,"Ian Gillan, Roger Glover, Jon Lord, Steve Morse, Ian Paice",354089
+796,Somebody Stole My Guitar,63,1,"Ian Gillan, Roger Glover, Jon Lord, Steve Morse, Ian Paice",249443
+797,The Purpendicular Waltz,63,1,"Ian Gillan, Roger Glover, Jon Lord, Steve Morse, Ian Paice",283924
+798,King Of Dreams,64,1,"Blackmore, Glover, Turner",328385
+799,The Cut Runs Deep,64,1,"Blackmore, Glover, Turner, Lord, Paice",342752
+800,Fire In The Basement,64,1,"Blackmore, Glover, Turner, Lord, Paice",283977
+801,Truth Hurts,64,1,"Blackmore, Glover, Turner",314827
+802,Breakfast In Bed,64,1,"Blackmore, Glover, Turner",317126
+803,Love Conquers All,64,1,"Blackmore, Glover, Turner",227186
+804,Fortuneteller,64,1,"Blackmore, Glover, Turner, Lord, Paice",349335
+805,Too Much Is Not Enough,64,1,"Turner, Held, Greenwood",257724
+806,Wicked Ways,64,1,"Blackmore, Glover, Turner, Lord, Paice",393691
+807,Stormbringer,65,1,D.Coverdale/R.Blackmore/Ritchie Blackmore,246413
+808,"Love Don't Mean a Thing",65,1,D.Coverdale/G.Hughes/Glenn Hughes/I.Paice/Ian Paice/J.Lord/John Lord/R.Blackmore/Ritchie Blackmore,263862
+809,Holy Man,65,1,D.Coverdale/G.Hughes/Glenn Hughes/J.Lord/John Lord,270236
+810,Hold On,65,1,D.Coverdal/G.Hughes/Glenn Hughes/I.Paice/Ian Paice/J.Lord/John Lord,306860
+811,Lady Double Dealer,65,1,D.Coverdale/R.Blackmore/Ritchie Blackmore,201482
+812,"You Can't Do it Right (With the One You Love)",65,1,D.Coverdale/G.Hughes/Glenn Hughes/R.Blackmore/Ritchie Blackmore,203755
+813,High Ball Shooter,65,1,D.Coverdale/G.Hughes/Glenn Hughes/I.Paice/Ian Paice/J.Lord/John Lord/R.Blackmore/Ritchie Blackmore,267833
+814,The Gypsy,65,1,D.Coverdale/G.Hughes/Glenn Hughes/I.Paice/Ian Paice/J.Lord/John Lord/R.Blackmore/Ritchie Blackmore,242886
+815,Soldier Of Fortune,65,1,D.Coverdale/R.Blackmore/Ritchie Blackmore,193750
+816,The Battle Rages On,66,1,ian paice/jon lord,356963
+817,Lick It Up,66,1,roger glover,240274
+818,Anya,66,1,jon lord/roger glover,392437
+819,Talk About Love,66,1,roger glover,247823
+820,Time To Kill,66,1,roger glover,351033
+821,Ramshackle Man,66,1,roger glover,334445
+822,A Twist In The Tail,66,1,roger glover,257462
+823,Nasty Piece Of Work,66,1,jon lord/roger glover,276662
+824,Solitaire,66,1,roger glover,282226
+825,"One Man's Meat",66,1,roger glover,278804
+826,Pour Some Sugar On Me,67,1,"",292519
+827,Photograph,67,1,"",248633
+828,Love Bites,67,1,"",346853
+829,"Let's Get Rocked",67,1,"",296019
+830,Two Steps Behind [Acoustic Version],67,1,"",259787
+831,Animal,67,1,"",244741
+832,Heaven Is,67,1,"",214021
+833,Rocket,67,1,"",247248
+834,When Love & Hate Collide,67,1,"",257280
+835,Action,67,1,"",220604
+836,Make Love Like A Man,67,1,"",255660
+837,Armageddon It,67,1,"",322455
+838,Have You Ever Needed Someone So Bad,67,1,"",319320
+839,Rock Of Ages,67,1,"",248424
+840,Hysteria,67,1,"",355056
+841,"Bringin' On The Heartbreak",67,1,"",272457
+842,Roll Call,68,2,Jim Beard,321358
+843,Otay,68,2,"John Scofield, Robert Aries, Milton Chambers and Gary Grainger",423653
+844,Groovus Interruptus,68,2,Jim Beard,319373
+845,Paris On Mine,68,2,Jon Herington,368875
+846,In Time,68,2,Sylvester Stewart,368953
+847,Plan B,68,2,"Dean Brown, Dennis Chambers & Jim Beard",272039
+848,Outbreak,68,2,Jim Beard & Jon Herington,659226
+849,"Baltimore, DC",68,2,John Scofield,346932
+850,Talkin Loud and Saying Nothin,68,2,James Brown & Bobby Byrd,360411
+891,Layla,72,6,Clapton/Gordon,430733
+892,Badge,72,6,Clapton/Harrison,163552
+893,I Feel Free,72,6,Bruce/Clapton,174576
+894,Sunshine Of Your Love,72,6,Bruce/Clapton,252891
+895,Crossroads,72,6,Clapton/Robert Johnson Arr: Eric Clapton,253335
+896,Strange Brew,72,6,Clapton/Collins/Pappalardi,167810
+897,White Room,72,6,Bruce/Clapton,301583
+898,Bell Bottom Blues,72,6,Clapton,304744
+899,Cocaine,72,6,Cale/Clapton,215928
+900,I Shot The Sheriff,72,6,Marley,263862
+901,After Midnight,72,6,Clapton/J. J. Cale,191320
+902,Swing Low Sweet Chariot,72,6,Clapton/Trad. Arr. Clapton,208143
+903,Lay Down Sally,72,6,Clapton/Levy,231732
+904,Knockin On Heavens Door,72,6,Clapton/Dylan,264411
+905,Wonderful Tonight,72,6,Clapton,221387
+906,Let It Grow,72,6,Clapton,297064
+907,Promises,72,6,Clapton/F.eldman/Linn,180401
+908,"I Can't Stand It",72,6,Clapton,249730
+909,Signe,73,6,Eric Clapton,193515
+910,Before You Accuse Me,73,6,Eugene McDaniel,224339
+911,Hey Hey,73,6,Big Bill Broonzy,196466
+912,Tears In Heaven,73,6,"Eric Clapton, Will Jennings",274729
+913,Lonely Stranger,73,6,Eric Clapton,328724
+914,"Nobody Knows You When You're Down & Out",73,6,Jimmy Cox,231836
+915,Layla,73,6,"Eric Clapton, Jim Gordon",285387
+916,Running On Faith,73,6,Jerry Lynn Williams,378984
+917,"Walkin' Blues",73,6,Robert Johnson,226429
+918,Alberta,73,6,Traditional,222406
+919,San Francisco Bay Blues,73,6,Jesse Fuller,203363
+920,Malted Milk,73,6,Robert Johnson,216528
+921,Old Love,73,6,"Eric Clapton, Robert Cray",472920
+922,"Rollin' And Tumblin'",73,6,McKinley Morgenfield (Muddy Waters),251768
+923,Collision,74,4,Jon Hudson/Mike Patton,204303
+924,Stripsearch,74,4,Jon Hudson/Mike Bordin/Mike Patton,270106
+925,Last Cup Of Sorrow,74,4,Bill Gould/Mike Patton,251663
+926,Naked In Front Of The Computer,74,4,Mike Patton,128757
+927,Helpless,74,4,Bill Gould/Mike Bordin/Mike Patton,326217
+928,Mouth To Mouth,74,4,Bill Gould/Jon Hudson/Mike Bordin/Mike Patton,228493
+929,Ashes To Ashes,74,4,Bill Gould/Jon Hudson/Mike Bordin/Mike Patton/Roddy Bottum,217391
+930,She Loves Me Not,74,4,Bill Gould/Mike Bordin/Mike Patton,209867
+931,Got That Feeling,74,4,Mike Patton,140852
+932,Paths Of Glory,74,4,Bill Gould/Jon Hudson/Mike Bordin/Mike Patton/Roddy Bottum,257253
+933,Home Sick Home,74,4,Mike Patton,119040
+934,Pristina,74,4,Bill Gould/Mike Patton,232698
+935,Land Of Sunshine,75,4,"",223921
+936,Caffeine,75,4,"",267937
+937,Midlife Crisis,75,4,"",263235
+938,RV,75,4,"",223242
+939,Smaller And Smaller,75,4,"",310831
+940,"Everything's Ruined",75,4,"",273658
+941,Malpractice,75,4,"",241371
+942,Kindergarten,75,4,"",270680
+943,Be Aggressive,75,4,"",222432
+944,A Small Victory,75,4,"",297168
+945,Crack Hitler,75,4,"",279144
+946,Jizzlobber,75,4,"",398341
+947,Midnight Cowboy,75,4,"",251924
+948,Easy,75,4,"",185835
+949,Get Out,76,1,"Mike Bordin, Billy Gould, Mike Patton",137482
+950,Ricochet,76,1,"Mike Bordin, Billy Gould, Mike Patton",269400
+951,Evidence,76,1,"Mike Bordin, Billy Gould, Mike Patton, Trey Spruance",293590
+952,The Gentle Art Of Making Enemies,76,1,"Mike Bordin, Billy Gould, Mike Patton",209319
+953,Star A.D.,76,1,"Mike Bordin, Billy Gould, Mike Patton",203807
+954,Cuckoo For Caca,76,1,"Mike Bordin, Billy Gould, Mike Patton, Trey Spruance",222902
+955,Caralho Voador,76,1,"Mike Bordin, Billy Gould, Mike Patton, Trey Spruance",242102
+956,Ugly In The Morning,76,1,"Mike Bordin, Billy Gould, Mike Patton",186435
+957,Digging The Grave,76,1,"Mike Bordin, Billy Gould, Mike Patton",185129
+958,Take This Bottle,76,1,"Mike Bordin, Billy Gould, Mike Patton, Trey Spruance",298997
+959,King For A Day,76,1,"Mike Bordin, Billy Gould, Mike Patton, Trey Spruance",395859
+960,What A Day,76,1,"Mike Bordin, Billy Gould, Mike Patton",158275
+961,The Last To Know,76,1,"Mike Bordin, Billy Gould, Mike Patton",267833
+962,Just A Man,76,1,"Mike Bordin, Billy Gould, Mike Patton",336666
+963,Absolute Zero,76,1,"Mike Bordin, Billy Gould, Mike Patton",181995
+964,From Out Of Nowhere,77,4,Faith No More,202527
+965,Epic,77,4,Faith No More,294008
+966,Falling To Pieces,77,4,Faith No More,316055
+967,"Surprise! You're Dead!",77,4,Faith No More,147226
+968,Zombie Eaters,77,4,Faith No More,360881
+969,The Real Thing,77,4,Faith No More,493635
+970,Underwater Love,77,4,Faith No More,231993
+971,The Morning After,77,4,Faith No More,223764
+972,Woodpecker From Mars,77,4,Faith No More,340532
+973,War Pigs,77,4,"Tony Iommi, Bill Ward, Geezer Butler, Ozzy Osbourne",464770
+974,Edge Of The World,77,4,Faith No More,250357
+989,In Your Honor,79,1,"Dave Grohl, Taylor Hawkins, Nate Mendel, Chris Shiflett",230191
+990,No Way Back,79,1,"Dave Grohl, Taylor Hawkins, Nate Mendel, Chris Shiflett",196675
+991,Best Of You,79,1,"Dave Grohl, Taylor Hawkins, Nate Mendel, Chris Shiflett",255712
+992,DOA,79,1,"Dave Grohl, Taylor Hawkins, Nate Mendel, Chris Shiflett",252186
+993,Hell,79,1,"Dave Grohl, Taylor Hawkins, Nate Mendel, Chris Shiflett",117080
+994,The Last Song,79,1,"Dave Grohl, Taylor Hawkins, Nate Mendel, Chris Shiflett",199523
+995,Free Me,79,1,"Dave Grohl, Taylor Hawkins, Nate Mendel, Chris Shiflett",278700
+996,Resolve,79,1,"Dave Grohl, Taylor Hawkins, Nate Mendel, Chris Shiflett",288731
+997,The Deepest Blues Are Black,79,1,"Dave Grohl, Taylor Hawkins, Nate Mendel, Chris Shiflett",238419
+998,End Over End,79,1,"Dave Grohl, Taylor Hawkins, Nate Mendel, Chris Shiflett",352078
+999,Still,80,1,"Dave Grohl, Taylor Hawkins, Nate Mendel, Chris Shiflett/FOO FIGHTERS",313182
+1000,What If I Do?,80,1,"Dave Grohl, Taylor Hawkins, Nate Mendel, Chris Shiflett/FOO FIGHTERS",302994
+1001,Miracle,80,1,"Dave Grohl, Taylor Hawkins, Nate Mendel, Chris Shiflett/FOO FIGHTERS",209684
+1002,Another Round,80,1,"Dave Grohl, Taylor Hawkins, Nate Mendel, Chris Shiflett/FOO FIGHTERS",265848
+1003,Friend Of A Friend,80,1,"Dave Grohl, Taylor Hawkins, Nate Mendel, Chris Shiflett/FOO FIGHTERS",193280
+1004,Over And Out,80,1,"Dave Grohl, Taylor Hawkins, Nate Mendel, Chris Shiflett/FOO FIGHTERS",316264
+1005,On The Mend,80,1,"Dave Grohl, Taylor Hawkins, Nate Mendel, Chris Shiflett/FOO FIGHTERS",271908
+1006,Virginia Moon,80,1,"Dave Grohl, Taylor Hawkins, Nate Mendel, Chris Shiflett/FOO FIGHTERS",229198
+1007,Cold Day In The Sun,80,1,"Dave Grohl, Taylor Hawkins, Nate Mendel, Chris Shiflett/FOO FIGHTERS",200724
+1008,Razor,80,1,"Dave Grohl, Taylor Hawkins, Nate Mendel, Chris Shiflett/FOO FIGHTERS",293276
+1009,All My Life,81,4,Foo Fighters,263653
+1010,Low,81,4,Foo Fighters,268120
+1011,Have It All,81,4,Foo Fighters,298057
+1012,Times Like These,81,4,Foo Fighters,266370
+1013,Disenchanted Lullaby,81,4,Foo Fighters,273528
+1014,Tired Of You,81,4,Foo Fighters,311353
+1015,Halo,81,4,Foo Fighters,306442
+1016,Lonely As You,81,4,Foo Fighters,277185
+1017,Overdrive,81,4,Foo Fighters,270550
+1018,Burn Away,81,4,Foo Fighters,298396
+1019,Come Back,81,4,Foo Fighters,469968
+1020,Doll,82,1,"Dave, Taylor, Nate, Chris",83487
+1021,Monkey Wrench,82,1,"Dave, Taylor, Nate, Chris",231523
+1022,"Hey, Johnny Park!",82,1,"Dave, Taylor, Nate, Chris",248528
+1023,My Poor Brain,82,1,"Dave, Taylor, Nate, Chris",213446
+1024,Wind Up,82,1,"Dave, Taylor, Nate, Chris",152163
+1025,Up In Arms,82,1,"Dave, Taylor, Nate, Chris",135732
+1026,My Hero,82,1,"Dave, Taylor, Nate, Chris",260101
+1027,See You,82,1,"Dave, Taylor, Nate, Chris",146782
+1028,Enough Space,82,1,Dave Grohl,157387
+1029,February Stars,82,1,"Dave, Taylor, Nate, Chris",289306
+1030,Everlong,82,1,Dave Grohl,250749
+1031,Walking After You,82,1,Dave Grohl,303856
+1032,New Way Home,82,1,"Dave, Taylor, Nate, Chris",342230
+1033,My Way,83,12,claude françois/gilles thibault/jacques revaux/paul anka,275879
+1034,Strangers In The Night,83,12,berthold kaempfert/charles singleton/eddie snyder,155794
+1035,"New York, New York",83,12,fred ebb/john kander,206001
+1036,I Get A Kick Out Of You,83,12,cole porter,194429
+1037,Something Stupid,83,12,carson c. parks,158615
+1038,Moon River,83,12,henry mancini/johnny mercer,198922
+1039,What Now My Love,83,12,carl sigman/gilbert becaud/pierre leroyer,149995
+1040,Summer Love,83,12,hans bradtke/heinz meier/johnny mercer,174994
+1041,For Once In My Life,83,12,orlando murden/ronald miller,171154
+1042,Love And Marriage,83,12,jimmy van heusen/sammy cahn,89730
+1043,"They Can't Take That Away From Me",83,12,george gershwin/ira gershwin,161227
+1044,My Kind Of Town,83,12,jimmy van heusen/sammy cahn,188499
+1045,Fly Me To The Moon,83,12,bart howard,149263
+1046,"I've Got You Under My Skin",83,12,cole porter,210808
+1047,The Best Is Yet To Come,83,12,carolyn leigh/cy coleman,173583
+1048,It Was A Very Good Year,83,12,ervin drake,266605
+1049,Come Fly With Me,83,12,jimmy van heusen/sammy cahn,190458
+1050,"That's Life",83,12,dean kay thompson/kelly gordon,187010
+1051,The Girl From Ipanema,83,12,antonio carlos jobim/norman gimbel/vinicius de moraes,193750
+1052,The Lady Is A Tramp,83,12,lorenz hart/richard rodgers,184111
+1053,"Bad, Bad Leroy Brown",83,12,jim croce,169900
+1054,Mack The Knife,83,12,bert brecht/kurt weill/marc blitzstein,292075
+1055,Loves Been Good To Me,83,12,rod mckuen,203964
+1056,L.A. Is My Lady,83,12,alan bergman/marilyn bergman/peggy lipton jones/quincy jones,193175
+1105,A Novidade,73,7,Gilberto Gil,324780
+1106,Tenho Sede,73,7,Gilberto Gil,261616
+1107,Refazenda,73,7,Gilberto Gil,218305
+1108,Realce,73,7,Gilberto Gil,264489
+1109,Esotérico,73,7,Gilberto Gil,317779
+1110,Drão,73,7,Gilberto Gil,301453
+1111,A Paz,73,7,Gilberto Gil,293093
+1112,Beira Mar,73,7,Gilberto Gil,295444
+1113,Sampa,73,7,Gilberto Gil,225697
+1114,Parabolicamará,73,7,Gilberto Gil,284943
+1115,Tempo Rei,73,7,Gilberto Gil,302733
+1116,Expresso 2222,73,7,Gilberto Gil,284760
+1117,Aquele Abraço,73,7,Gilberto Gil,263993
+1118,Palco,73,7,Gilberto Gil,270550
+1119,Toda Menina Baiana,73,7,Gilberto Gil,278177
+1120,Sítio Do Pica-Pau Amarelo,73,7,Gilberto Gil,218070
+1133,American Idiot,89,4,"Billie Joe Armstrong, Mike Dirnt, Tré Cool",174419
+1134,"Jesus Of Suburbia / City Of The Damned / I Don't Care / Dearly Beloved / Tales Of Another Broken Home",89,4,Billie Joe Armstrong/Green Day,548336
+1135,Holiday,89,4,"Billie Joe Armstrong, Mike Dirnt, Tré Cool",232724
+1136,Boulevard Of Broken Dreams,89,4,"Mike Dint, Billie Joe, Tré Cool",260858
+1137,Are We The Waiting,89,4,Green Day,163004
+1138,St. Jimmy,89,4,Green Day,175307
+1139,Give Me Novacaine,89,4,Green Day,205871
+1140,"She's A Rebel",89,4,Green Day,120528
+1141,Extraordinary Girl,89,4,Green Day,214021
+1142,Letterbomb,89,4,Green Day,246151
+1143,Wake Me Up When September Ends,89,4,"Mike Dint, Billie Joe, Tré Cool",285753
+1144,"Homecoming / The Death Of St. Jimmy / East 12th St. / Nobody Likes You / Rock And Roll Girlfriend / We're Coming Home Again",89,4,Mike Dirnt/Tré Cool,558602
+1145,Whatsername,89,4,Green Day,252316
+1146,Welcome to the Jungle,90,1,"",273552
+1147,"It's So Easy",90,1,"",202824
+1148,Nightrain,90,1,"",268537
+1149,Out Ta Get Me,90,1,"",263893
+1150,Mr. Brownstone,90,1,"",228924
+1151,Paradise City,90,1,"",406347
+1152,My Michelle,90,1,"",219961
+1153,Think About You,90,1,"",231640
+1154,"Sweet Child O' Mine",90,1,"",356424
+1155,"You're Crazy",90,1,"",197135
+1156,Anything Goes,90,1,"",206400
+1157,Rocket Queen,90,1,"",375349
+1158,Right Next Door to Hell,91,1,"",182321
+1159,"Dust N' Bones",91,1,"",298374
+1160,Live and Let Die,91,1,"",184016
+1161,"Don't Cry (Original)",91,1,"",284744
+1162,Perfect Crime,91,1,"",143637
+1163,"You Ain't the First",91,1,"",156268
+1164,Bad Obsession,91,1,"",328282
+1165,Back off Bitch,91,1,"",303436
+1166,"Double Talkin' Jive",91,1,"",203637
+1167,November Rain,91,1,"",537540
+1168,The Garden,91,1,"",322175
+1169,Garden of Eden,91,1,"",161539
+1170,"Don't Damn Me",91,1,"",318901
+1171,Bad Apples,91,1,"",268351
+1172,Dead Horse,91,1,"",257600
+1173,Coma,91,1,"",616511
+1174,Civil War,92,3,Duff McKagan/Slash/W. Axl Rose,461165
+1175,14 Years,92,3,"Izzy Stradlin'/W. Axl Rose",261355
+1176,Yesterdays,92,3,Billy/Del James/W. Axl Rose/West Arkeen,196205
+1177,"Knockin' On Heaven's Door",92,3,Bob Dylan,336457
+1178,Get In The Ring,92,3,Duff McKagan/Slash/W. Axl Rose,341054
+1179,Shotgun Blues,92,3,W. Axl Rose,203206
+1180,Breakdown,92,3,W. Axl Rose,424960
+1181,Pretty Tied Up,92,3,"Izzy Stradlin'",287477
+1182,Locomotive,92,3,Slash/W. Axl Rose,522396
+1183,So Fine,92,3,Duff McKagan,246491
+1184,Estranged,92,3,W. Axl Rose,563800
+1185,You Could Be Mine,92,3,"Izzy Stradlin'/W. Axl Rose",343875
+1186,"Don't Cry",92,3,"Izzy Stradlin'/W. Axl Rose",284238
+1187,My World,92,3,W. Axl Rose,84532
+1201,Different World,94,1,"",258692
+1202,"These Colours Don't Run",94,1,"",412152
+1203,Brighter Than a Thousand Suns,94,1,"",526255
+1204,The Pilgrim,94,1,"",307593
+1205,The Longest Day,94,1,"",467810
+1206,Out of the Shadows,94,1,"",336896
+1207,The Reincarnation of Benjamin Breeg,94,1,"",442106
+1208,For the Greater Good of God,94,1,"",564893
+1209,Lord of Light,94,1,"",444614
+1210,The Legacy,94,1,"",562966
+1211,Hallowed Be Thy Name (Live) [Non Album Bonus Track],94,1,"",431262
+1212,The Number Of The Beast,95,3,Steve Harris,294635
+1213,The Trooper,95,3,Steve Harris,235311
+1214,Prowler,95,3,Steve Harris,255634
+1215,Transylvania,95,3,Steve Harris,265874
+1216,Remember Tomorrow,95,3,"Paul Di'Anno/Steve Harris",352731
+1217,Where Eagles Dare,95,3,Steve Harris,289358
+1218,Sanctuary,95,3,"David Murray/Paul Di'Anno/Steve Harris",293250
+1219,Running Free,95,3,"Paul Di'Anno/Steve Harris",228937
+1220,Run To The Hilss,95,3,Steve Harris,237557
+1221,2 Minutes To Midnight,95,3,Adrian Smith/Bruce Dickinson,337423
+1222,Iron Maiden,95,3,Steve Harris,324623
+1223,Hallowed Be Thy Name,95,3,Steve Harris,471849
+1224,Be Quick Or Be Dead,96,3,Bruce Dickinson/Janick Gers,196911
+1225,From Here To Eternity,96,3,Steve Harris,259866
+1226,Can I Play With Madness,96,3,Adrian Smith/Bruce Dickinson/Steve Harris,282488
+1227,Wasting Love,96,3,Bruce Dickinson/Janick Gers,347846
+1228,Tailgunner,96,3,Bruce Dickinson/Steve Harris,249469
+1229,The Evil That Men Do,96,3,Adrian Smith/Bruce Dickinson/Steve Harris,325929
+1230,Afraid To Shoot Strangers,96,3,Steve Harris,407980
+1231,Bring Your Daughter... To The Slaughter,96,3,Bruce Dickinson,317727
+1232,Heaven Can Wait,96,3,Steve Harris,448574
+1233,The Clairvoyant,96,3,Steve Harris,269871
+1234,Fear Of The Dark,96,3,Steve Harris,431333
+1235,The Wicker Man,97,1,Adrian Smith/Bruce Dickinson/Steve Harris,275539
+1236,Ghost Of The Navigator,97,1,Bruce Dickinson/Janick Gers/Steve Harris,410070
+1237,Brave New World,97,1,Bruce Dickinson/David Murray/Steve Harris,378984
+1238,Blood Brothers,97,1,Steve Harris,434442
+1239,The Mercenary,97,1,Janick Gers/Steve Harris,282488
+1240,Dream Of Mirrors,97,1,Janick Gers/Steve Harris,561162
+1241,The Fallen Angel,97,1,Adrian Smith/Steve Harris,240718
+1242,The Nomad,97,1,David Murray/Steve Harris,546115
+1243,Out Of The Silent Planet,97,1,Bruce Dickinson/Janick Gers/Steve Harris,385541
+1244,The Thin Line Between Love & Hate,97,1,David Murray/Steve Harris,506801
+1245,Wildest Dreams,98,13,Adrian Smith/Steve Harris,232777
+1246,Rainmaker,98,13,Bruce Dickinson/David Murray/Steve Harris,228623
+1247,No More Lies,98,13,Steve Harris,441782
+1248,Montsegur,98,13,Bruce Dickinson/Janick Gers/Steve Harris,350484
+1249,Dance Of Death,98,13,Janick Gers/Steve Harris,516649
+1250,Gates Of Tomorrow,98,13,Bruce Dickinson/Janick Gers/Steve Harris,312032
+1251,New Frontier,98,13,Adrian Smith/Bruce Dickinson/Nicko McBrain,304509
+1252,Paschendale,98,13,Adrian Smith/Steve Harris,508107
+1253,Face In The Sand,98,13,Adrian Smith/Bruce Dickinson/Steve Harris,391105
+1254,Age Of Innocence,98,13,David Murray/Steve Harris,370468
+1255,Journeyman,98,13,Bruce Dickinson/David Murray/Steve Harris,427023
+1256,Be Quick Or Be Dead,99,1,Bruce Dickinson/Janick Gers,204512
+1257,From Here To Eternity,99,1,Steve Harris,218357
+1258,Afraid To Shoot Strangers,99,1,Steve Harris,416496
+1259,Fear Is The Key,99,1,Bruce Dickinson/Janick Gers,335307
+1260,"Childhood's End",99,1,Steve Harris,280607
+1261,Wasting Love,99,1,Bruce Dickinson/Janick Gers,350981
+1262,The Fugitive,99,1,Steve Harris,294112
+1263,Chains Of Misery,99,1,Bruce Dickinson/David Murray,217443
+1264,The Apparition,99,1,Janick Gers/Steve Harris,234605
+1265,Judas Be My Guide,99,1,Bruce Dickinson/David Murray,188786
+1266,Weekend Warrior,99,1,Janick Gers/Steve Harris,339748
+1267,Fear Of The Dark,99,1,Steve Harris,436976
+1268,01 - Prowler,100,6,Steve Harris,236173
+1269,02 - Sanctuary,100,6,"David Murray/Paul Di'Anno/Steve Harris",196284
+1270,03 - Remember Tomorrow,100,6,Harris/Paul Di´Anno,328620
+1271,04 - Running Free,100,6,Harris/Paul Di´Anno,197276
+1272,05 - Phantom of the Opera,100,6,Steve Harris,428016
+1273,06 - Transylvania,100,6,Steve Harris,259343
+1274,07 - Strange World,100,6,Steve Harris,332460
+1275,08 - Charlotte the Harlot,100,6,Murray  Dave,252708
+1276,09 - Iron Maiden,100,6,Steve Harris,216058
+1277,The Ides Of March,101,13,Steve Harris,105926
+1278,Wrathchild,101,13,Steve Harris,174471
+1279,Murders In The Rue Morgue,101,13,Steve Harris,258377
+1280,Another Life,101,13,Steve Harris,203049
+1281,Genghis Khan,101,13,Steve Harris,187141
+1282,Innocent Exile,101,13,Di´Anno/Harris,232515
+1283,Killers,101,13,Steve Harris,300956
+1284,Prodigal Son,101,13,Steve Harris,372349
+1285,Purgatory,101,13,Steve Harris,200150
+1286,Drifter,101,13,Steve Harris,288757
+1287,Intro- Churchill S Speech,102,13,"",48013
+1288,Aces High,102,13,"",276375
+1289,2 Minutes To Midnight,102,3,Smith/Dickinson,366550
+1290,The Trooper,102,3,Harris,268878
+1291,Revelations,102,3,Dickinson,371826
+1292,Flight Of Icarus,102,3,Smith/Dickinson,229982
+1293,Rime Of The Ancient Mariner,102,3,"",789472
+1294,Powerslave,102,3,"",454974
+1295,The Number Of The Beast,102,3,Harris,275121
+1296,Hallowed Be Thy Name,102,3,Harris,451422
+1297,Iron Maiden,102,3,Harris,261955
+1298,Run To The Hills,102,3,Harris,231627
+1299,Running Free,102,3,Harris/Di Anno,204617
+1300,Wrathchild,102,13,Steve Harris,183666
+1301,Acacia Avenue,102,13,"",379872
+1302,Children Of The Damned,102,13,Steve Harris,278177
+1303,Die With Your Boots On,102,13,Adrian Smith/Bruce Dickinson/Steve Harris,314174
+1304,Phantom Of The Opera,102,13,Steve Harris,441155
+1305,Be Quick Or Be Dead,103,1,"",233142
+1306,The Number Of The Beast,103,1,"",294008
+1307,Wrathchild,103,1,"",174106
+1308,From Here To Eternity,103,1,"",284447
+1309,Can I Play With Madness,103,1,"",213106
+1310,Wasting Love,103,1,"",336953
+1311,Tailgunner,103,1,"",247640
+1312,The Evil That Men Do,103,1,"",478145
+1313,Afraid To Shoot Strangers,103,1,"",412525
+1314,Fear Of The Dark,103,1,"",431542
+1315,Bring Your Daughter... To The Slaughter...,104,1,"",376711
+1316,The Clairvoyant,104,1,"",262426
+1317,Heaven Can Wait,104,1,"",440555
+1318,Run To The Hills,104,1,"",235859
+1319,2 Minutes To Midnight,104,1,Adrian Smith/Bruce Dickinson,338233
+1320,Iron Maiden,104,1,"",494602
+1321,Hallowed Be Thy Name,104,1,"",447791
+1322,The Trooper,104,1,"",232672
+1323,Sanctuary,104,1,"",318511
+1324,Running Free,104,1,"",474017
+1325,Tailgunner,105,3,Bruce Dickinson/Steve Harris,255582
+1326,Holy Smoke,105,3,Bruce Dickinson/Steve Harris,229459
+1327,No Prayer For The Dying,105,3,Steve Harris,263941
+1328,Public Enema Number One,105,3,Bruce Dickinson/David Murray,254197
+1329,Fates Warning,105,3,David Murray/Steve Harris,250853
+1330,The Assassin,105,3,Steve Harris,258768
+1331,Run Silent Run Deep,105,3,Bruce Dickinson/Steve Harris,275408
+1332,Hooks In You,105,3,Adrian Smith/Bruce Dickinson,247510
+1333,Bring Your Daughter... ...To The Slaughter,105,3,Bruce Dickinson,284238
+1334,Mother Russia,105,3,Steve Harris,332617
+1335,Where Eagles Dare,106,3,Steve Harris,369554
+1336,Revelations,106,3,Bruce Dickinson,408607
+1337,Flight Of The Icarus,106,3,Adrian Smith/Bruce Dickinson,230269
+1338,Die With Your Boots On,106,3,Adrian Smith/Bruce Dickinson/Steve Harris,325694
+1339,The Trooper,106,3,Steve Harris,251454
+1340,Still Life,106,3,David Murray/Steve Harris,294347
+1341,Quest For Fire,106,3,Steve Harris,221309
+1342,Sun And Steel,106,3,Adrian Smith/Bruce Dickinson,206367
+1343,To Tame A Land,106,3,Steve Harris,445283
+1344,Aces High,107,3,Harris,269531
+1345,2 Minutes To Midnight,107,3,Smith/Dickinson,359810
+1346,Losfer Words,107,3,Steve Harris,252891
+1347,Flash of The Blade,107,3,Dickinson,242729
+1348,Duelists,107,3,Steve Harris,366471
+1349,Back in the Village,107,3,Dickinson/Smith,320548
+1350,Powerslave,107,3,Dickinson,407823
+1351,Rime of the Ancient Mariner,107,3,Harris,816509
+1352,Intro,108,3,"",115931
+1353,The Wicker Man,108,3,Adrian Smith/Bruce Dickinson/Steve Harris,281782
+1354,Ghost Of The Navigator,108,3,Bruce Dickinson/Janick Gers/Steve Harris,408607
+1355,Brave New World,108,3,Bruce Dickinson/David Murray/Steve Harris,366785
+1356,Wrathchild,108,3,Steve Harris,185808
+1357,2 Minutes To Midnight,108,3,Adrian Smith/Bruce Dickinson,386821
+1358,Blood Brothers,108,3,Steve Harris,435513
+1359,Sign Of The Cross,108,3,Steve Harris,649116
+1360,The Mercenary,108,3,Janick Gers/Steve Harris,282697
+1361,The Trooper,108,3,Steve Harris,273528
+1362,Dream Of Mirrors,109,1,Janick Gers/Steve Harris,578324
+1363,The Clansman,109,1,Steve Harris,559203
+1364,The Evil That Men Do,109,3,Adrian Smith/Bruce Dickinson/Steve Harris,280737
+1365,Fear Of The Dark,109,1,Steve Harris,460695
+1366,Iron Maiden,109,1,Steve Harris,351869
+1367,The Number Of The Beast,109,1,Steve Harris,300434
+1368,Hallowed Be Thy Name,109,1,Steve Harris,443977
+1369,Sanctuary,109,1,"David Murray/Paul Di'Anno/Steve Harris",317335
+1370,Run To The Hills,109,1,Steve Harris,292179
+1371,Moonchild,110,3,Adrian Smith; Bruce Dickinson,340767
+1372,Infinite Dreams,110,3,Steve Harris,369005
+1373,Can I Play With Madness,110,3,Adrian Smith; Bruce Dickinson; Steve Harris,211043
+1374,The Evil That Men Do,110,3,Adrian Smith; Bruce Dickinson; Steve Harris,273998
+1375,Seventh Son of a Seventh Son,110,3,Steve Harris,593580
+1376,The Prophecy,110,3,Dave Murray; Steve Harris,305475
+1377,The Clairvoyant,110,3,Adrian Smith; Bruce Dickinson; Steve Harris,267023
+1378,Only the Good Die Young,110,3,Bruce Dickinson; Harris,280894
+1379,Caught Somewhere in Time,111,3,Steve Harris,445779
+1380,Wasted Years,111,3,Adrian Smith,307565
+1381,Sea of Madness,111,3,Adrian Smith,341995
+1382,Heaven Can Wait,111,3,Steve Harris,441417
+1383,Stranger in a Strange Land,111,3,Adrian Smith,344502
+1384,Alexander the Great,111,3,Steve Harris,515631
+1385,De Ja Vu,111,3,David Murray/Steve Harris,296176
+1386,The Loneliness of the Long Dis,111,3,Steve Harris,391314
+1387,22 Acacia Avenue,112,3,Adrian Smith/Steve Harris,395572
+1388,Children of the Damned,112,3,Steve Harris,274364
+1389,Gangland,112,3,Adrian Smith/Clive Burr/Steve Harris,228440
+1390,Hallowed Be Thy Name,112,3,Steve Harris,428669
+1391,Invaders,112,3,Steve Harris,203180
+1392,Run to the Hills,112,3,Steve Harris,228884
+1393,The Number Of The Beast,112,1,Steve Harris,293407
+1394,The Prisoner,112,3,Adrian Smith/Steve Harris,361299
+1395,Sign Of The Cross,113,1,Steve Harris,678008
+1396,Lord Of The Flies,113,1,Janick Gers/Steve Harris,303699
+1397,Man On The Edge,113,1,Blaze Bayley/Janick Gers,253413
+1398,Fortunes Of War,113,1,Steve Harris,443977
+1399,Look For The Truth,113,1,Blaze Bayley/Janick Gers/Steve Harris,310230
+1400,The Aftermath,113,1,Blaze Bayley/Janick Gers/Steve Harris,380786
+1401,Judgement Of Heaven,113,1,Steve Harris,312476
+1402,"Blood On The World's Hands",113,1,Steve Harris,357799
+1403,The Edge Of Darkness,113,1,Blaze Bayley/Janick Gers/Steve Harris,399333
+1404,2 A.M.,113,1,Blaze Bayley/Janick Gers/Steve Harris,337658
+1405,The Unbeliever,113,1,Janick Gers/Steve Harris,490422
+1406,Futureal,114,1,Blaze Bayley/Steve Harris,175777
+1407,The Angel And The Gambler,114,1,Steve Harris,592744
+1408,Lightning Strikes Twice,114,1,David Murray/Steve Harris,290377
+1409,The Clansman,114,1,Steve Harris,539689
+1410,When Two Worlds Collide,114,1,Blaze Bayley/David Murray/Steve Harris,377312
+1411,The Educated Fool,114,1,Steve Harris,404767
+1412,"Don't Look To The Eyes Of A Stranger",114,1,Steve Harris,483657
+1413,Como Estais Amigos,114,1,Blaze Bayley/Janick Gers,330292
+1414,Please Please Please,115,14,James Brown/Johnny Terry,165067
+1415,Think,115,14,Lowman Pauling,166739
+1416,Night Train,115,14,Jimmy Forrest/Lewis C. Simpkins/Oscar Washington,212401
+1417,Out Of Sight,115,14,Ted Wright,143725
+1418,"Papa's Got A Brand New Bag Pt.1",115,14,James Brown,127399
+1419,I Got You (I Feel Good),115,14,James Brown,167392
+1420,"It's A Man's Man's Man's World",115,14,Betty Newsome/James Brown,168228
+1421,Cold Sweat,115,14,Alfred Ellis/James Brown,172408
+1422,"Say It Loud, I'm Black And I'm Proud Pt.1",115,14,Alfred Ellis/James Brown,167392
+1423,Get Up (I Feel Like Being A) Sex Machine,115,14,Bobby Byrd/James Brown/Ron Lenhoff,316551
+1424,Hey America,115,14,Addie William Jones/Nat Jones,218226
+1425,Make It Funky Pt.1,115,14,Charles Bobbitt/James Brown,196231
+1426,"I'm A Greedy Man Pt.1",115,14,Charles Bobbitt/James Brown,217730
+1427,Get On The Good Foot,115,14,Fred Wesley/James Brown/Joseph Mims,215902
+1428,Get Up Offa That Thing,115,14,Deanna Brown/Deidra Jenkins/Yamma Brown,250723
+1429,"It's Too Funky In Here",115,14,Brad Shapiro/George Jackson/Robert Miller/Walter Shaw,239072
+1430,Living In America,115,14,Charlie Midnight/Dan Hartman,282880
+1431,"I'm Real",115,14,Full Force/James Brown,334236
+1432,Hot Pants Pt.1,115,14,Fred Wesley/James Brown,188212
+1433,Soul Power (Live),115,14,James Brown,260728
+1434,When You Gonna Learn (Digeridoo),116,1,"Jay Kay/Kay, Jay",230635
+1435,Too Young To Die,116,1,"Smith, Toby",365818
+1436,Hooked Up,116,1,"Smith, Toby",275879
+1437,"If I Like It, I Do It",116,1,"Gelder, Nick van",293093
+1438,Music Of The Wind,116,1,"Smith, Toby",383033
+1439,Emergency On Planet Earth,116,1,"Smith, Toby",245263
+1440,"Whatever It Is, I Just Can't Stop",116,1,"Jay Kay/Kay, Jay",247222
+1441,Blow Your Mind,116,1,"Smith, Toby",512339
+1442,Revolution 1993,116,1,"Smith, Toby",616829
+1443,"Didgin' Out",116,1,"Buchanan, Wallis",157100
+1444,Canned Heat,117,14,Jay Kay,331964
+1445,Planet Home,117,14,Jay Kay/Toby Smith,284447
+1446,Black Capricorn Day,117,14,Jay Kay,341629
+1447,Soul Education,117,14,Jay Kay/Toby Smith,255477
+1448,Failling,117,14,Jay Kay/Toby Smith,225227
+1449,Destitute Illusions,117,14,Derrick McKenzie/Jay Kay/Toby Smith,340218
+1450,Supersonic,117,14,Jay Kay,315872
+1451,Butterfly,117,14,Jay Kay/Toby Smith,268852
+1452,Were Do We Go From Here,117,14,Jay Kay,313626
+1453,King For A Day,117,14,Jay Kay/Toby Smith,221544
+1454,Deeper Underground,117,14,Toby Smith,281808
+1455,Just Another Story,118,15,Toby Smith,529684
+1456,Stillness In Time,118,15,Toby Smith,257097
+1457,Half The Man,118,15,Toby Smith,289854
+1458,Light Years,118,15,Toby Smith,354560
+1459,Manifest Destiny,118,15,Toby Smith,382197
+1460,The Kids,118,15,Toby Smith,309995
+1461,Mr. Moon,118,15,Stuard Zender/Toby Smith,329534
+1462,Scam,118,15,Stuart Zender,422321
+1463,Journey To Arnhemland,118,15,Toby Smith/Wallis Buchanan,322455
+1464,Morning Glory,118,15,J. Kay/Jay Kay,384130
+1465,Space Cowboy,118,15,J. Kay/Jay Kay,385697
+1479,Foxy Lady,120,1,Jimi Hendrix,199340
+1480,Manic Depression,120,1,Jimi Hendrix,222302
+1481,Red House,120,1,Jimi Hendrix,224130
+1482,Can You See Me,120,1,Jimi Hendrix,153077
+1483,Love Or Confusion,120,1,Jimi Hendrix,193123
+1484,"I Don't Live Today",120,1,Jimi Hendrix,235311
+1485,May This Be Love,120,1,Jimi Hendrix,191216
+1486,Fire,120,1,Jimi Hendrix,164989
+1487,Third Stone From The Sun,120,1,Jimi Hendrix,404453
+1488,Remember,120,1,Jimi Hendrix,168150
+1489,Are You Experienced?,120,1,Jimi Hendrix,254537
+1490,Hey Joe,120,1,Billy Roberts,210259
+1491,Stone Free,120,1,Jimi Hendrix,216293
+1492,Purple Haze,120,1,Jimi Hendrix,171572
+1493,51st Anniversary,120,1,Jimi Hendrix,196388
+1494,The Wind Cries Mary,120,1,Jimi Hendrix,200463
+1495,Highway Chile,120,1,Jimi Hendrix,212453
+1496,Surfing with the Alien,121,1,"",263707
+1497,Ice 9,121,1,"",239721
+1498,Crushing Day,121,1,"",314768
+1499,"Always With Me, Always With You",121,1,"",202035
+1500,Satch Boogie,121,1,"",193560
+1501,Hill of the Skull,121,1,J. Satriani,108435
+1502,Circles,121,1,"",209071
+1503,Lords of Karma,121,1,J. Satriani,288227
+1504,Midnight,121,1,J. Satriani,102630
+1505,Echo,121,1,J. Satriani,337570
+1546,The Green Manalishi,125,3,"",205792
+1547,Living After Midnight,125,3,"",213289
+1548,Breaking The Law (Live),125,3,"",144195
+1549,"Hot Rockin'",125,3,"",197328
+1550,Heading Out To The Highway (Live),125,3,"",276427
+1551,The Hellion,125,3,"",41900
+1552,Electric Eye,125,3,"",222197
+1553,"You've Got Another Thing Comin'",125,3,"",305162
+1554,Turbo Lover,125,3,"",335542
+1555,Freewheel Burning,125,3,"",265952
+1556,Some Heads Are Gonna Roll,125,3,"",249939
+1557,Metal Meltdown,125,3,"",290664
+1558,Ram It Down,125,3,"",292179
+1559,Diamonds And Rust (Live),125,3,"",219350
+1560,Victim Of Change (Live),125,3,"",430942
+1561,Tyrant (Live),125,3,"",282253
+1562,"Comin' Home",126,1,"Paul Stanley, Ace Frehley",172068
+1563,Plaster Caster,126,1,Gene Simmons,198060
+1564,"Goin' Blind",126,1,"Gene Simmons, Stephen Coronel",217652
+1565,Do You Love Me,126,1,"Paul Stanley, Bob Ezrin, Kim Fowley",193619
+1566,Domino,126,1,Gene Simmons,226377
+1567,Sure Know Something,126,1,"Paul Stanley, Vincent Poncia",254354
+1568,A World Without Heroes,126,1,"Paul Stanley, Gene Simmons, Bob Ezrin, Lewis Reed",177815
+1569,Rock Bottom,126,1,"Paul Stanley, Ace Frehley",200594
+1570,See You Tonight,126,1,Gene Simmons,146494
+1571,I Still Love You,126,1,Paul Stanley,369815
+1572,Every Time I Look At You,126,1,"Paul Stanley, Vincent Cusano",283898
+1573,"2,000 Man",126,1,"Mick Jagger, Keith Richard",312450
+1574,Beth,126,1,"Peter Criss, Stan Penridge, Bob Ezrin",170187
+1575,"Nothin' To Lose",126,1,Gene Simmons,222354
+1576,Rock And Roll All Nite,126,1,"Paul Stanley, Gene Simmons",259631
+1577,Immigrant Song,127,1,Robert Plant,201247
+1578,Heartbreaker,127,1,John Bonham/John Paul Jones/Robert Plant,316081
+1579,"Since I've Been Loving You",127,1,John Paul Jones/Robert Plant,416365
+1580,Black Dog,127,1,John Paul Jones/Robert Plant,317622
+1581,Dazed And Confused,127,1,Jimmy Page/Led Zeppelin,1116734
+1582,Stairway To Heaven,127,1,Robert Plant,529658
+1583,Going To California,127,1,Robert Plant,234605
+1584,"That's The Way",127,1,Robert Plant,343431
+1585,Whole Lotta Love (Medley),127,1,Arthur Crudup/Bernard Besman/Bukka White/Doc Pomus/John Bonham/John Lee Hooker/John Paul Jones/Mort Shuman/Robert Plant/Willie Dixon,825103
+1586,Thank You,127,1,Robert Plant,398262
+1587,"We're Gonna Groove",128,1,Ben E.King/James Bethea,157570
+1588,Poor Tom,128,1,Jimmy Page/Robert Plant,182491
+1589,"I Can't Quit You Baby",128,1,Willie Dixon,258168
+1590,"Walter's Walk",128,1,"Jimmy Page, Robert Plant",270785
+1591,Ozone Baby,128,1,"Jimmy Page, Robert Plant",215954
+1592,Darlene,128,1,"Jimmy Page, Robert Plant, John Bonham, John Paul Jones",307226
+1593,"Bonzo's Montreux",128,1,John Bonham,258925
+1594,Wearing And Tearing,128,1,"Jimmy Page, Robert Plant",330004
+1595,The Song Remains The Same,129,1,Jimmy Page/Jimmy Page & Robert Plant/Robert Plant,330004
+1596,The Rain Song,129,1,Jimmy Page/Jimmy Page & Robert Plant/Robert Plant,459180
+1597,Over The Hills And Far Away,129,1,Jimmy Page/Jimmy Page & Robert Plant/Robert Plant,290089
+1598,The Crunge,129,1,John Bonham/John Paul Jones,197407
+1599,Dancing Days,129,1,Jimmy Page/Jimmy Page & Robert Plant/Robert Plant,223216
+1600,"D'Yer Mak'er",129,1,John Bonham/John Paul Jones,262948
+1601,No Quarter,129,1,John Paul Jones,420493
+1602,The Ocean,129,1,John Bonham/John Paul Jones,271098
+1603,In The Evening,130,1,"Jimmy Page, Robert Plant & John Paul Jones",410566
+1604,South Bound Saurez,130,1,John Paul Jones & Robert Plant,254406
+1605,Fool In The Rain,130,1,"Jimmy Page, Robert Plant & John Paul Jones",372950
+1606,Hot Dog,130,1,Jimmy Page & Robert Plant,197198
+1607,Carouselambra,130,1,"John Paul Jones, Jimmy Page & Robert Plant",634435
+1608,All My Love,130,1,Robert Plant & John Paul Jones,356284
+1609,"I'm Gonna Crawl",130,1,"Jimmy Page, Robert Plant & John Paul Jones",329639
+1610,Black Dog,131,1,"Jimmy Page, Robert Plant, John Paul Jones",296672
+1611,Rock & Roll,131,1,"Jimmy Page, Robert Plant, John Paul Jones, John Bonham",220917
+1612,The Battle Of Evermore,131,1,"Jimmy Page, Robert Plant",351555
+1613,Stairway To Heaven,131,1,"Jimmy Page, Robert Plant",481619
+1614,Misty Mountain Hop,131,1,"Jimmy Page, Robert Plant, John Paul Jones",278857
+1615,Four Sticks,131,1,"Jimmy Page, Robert Plant",284447
+1616,Going To California,131,1,"Jimmy Page, Robert Plant",215693
+1617,When The Levee Breaks,131,1,"Jimmy Page, Robert Plant, John Paul Jones, John Bonham, Memphis Minnie",427702
+1618,Good Times Bad Times,132,1,Jimmy Page/John Bonham/John Paul Jones,166164
+1619,"Babe I'm Gonna Leave You",132,1,Jimmy Page/Robert Plant,401475
+1620,You Shook Me,132,1,J. B. Lenoir/Willie Dixon,388179
+1621,Dazed and Confused,132,1,Jimmy Page,386063
+1622,Your Time Is Gonna Come,132,1,Jimmy Page/John Paul Jones,274860
+1623,Black Mountain Side,132,1,Jimmy Page,132702
+1624,Communication Breakdown,132,1,Jimmy Page/John Bonham/John Paul Jones,150230
+1625,"I Can't Quit You Baby",132,1,Willie Dixon,282671
+1626,How Many More Times,132,1,Jimmy Page/John Bonham/John Paul Jones,508055
+1627,Whole Lotta Love,133,1,"Jimmy Page, Robert Plant, John Paul Jones, John Bonham",334471
+1628,What Is And What Should Never Be,133,1,"Jimmy Page, Robert Plant",287973
+1629,The Lemon Song,133,1,"Jimmy Page, Robert Plant, John Paul Jones, John Bonham",379141
+1630,Thank You,133,1,"Jimmy Page, Robert Plant",287791
+1631,Heartbreaker,133,1,"Jimmy Page, Robert Plant, John Paul Jones, John Bonham",253988
+1632,"Living Loving Maid (She's Just A Woman)",133,1,"Jimmy Page, Robert Plant",159216
+1633,Ramble On,133,1,"Jimmy Page, Robert Plant",275591
+1634,Moby Dick,133,1,"John Bonham, John Paul Jones, Jimmy Page",260728
+1635,Bring It On Home,133,1,"Jimmy Page, Robert Plant",259970
+1636,Immigrant Song,134,1,"Jimmy Page, Robert Plant",144875
+1637,Friends,134,1,"Jimmy Page, Robert Plant",233560
+1638,Celebration Day,134,1,"Jimmy Page, Robert Plant, John Paul Jones",209528
+1639,"Since I've Been Loving You",134,1,"Jimmy Page, Robert Plant, John Paul Jones",444055
+1640,Out On The Tiles,134,1,"Jimmy Page, Robert Plant, John Bonham",246047
+1641,Gallows Pole,134,1,Traditional,296228
+1642,Tangerine,134,1,Jimmy Page,189675
+1643,"That's The Way",134,1,"Jimmy Page, Robert Plant",337345
+1644,Bron-Y-Aur Stomp,134,1,"Jimmy Page, Robert Plant, John Paul Jones",259500
+1645,Hats Off To (Roy) Harper,134,1,Traditional,219376
+1646,In The Light,135,1,John Paul Jones/Robert Plant,526785
+1647,Bron-Yr-Aur,135,1,Jimmy Page,126641
+1648,Down By The Seaside,135,1,Robert Plant,316186
+1649,Ten Years Gone,135,1,Robert Plant,393116
+1650,Night Flight,135,1,John Paul Jones/Robert Plant,217547
+1651,The Wanton Song,135,1,Robert Plant,249887
+1652,Boogie With Stu,135,1,Ian Stewart/John Bonham/John Paul Jones/Mrs. Valens/Robert Plant,233273
+1653,Black Country Woman,135,1,Robert Plant,273084
+1654,Sick Again,135,1,Robert Plant,283036
+1655,Achilles Last Stand,136,1,Jimmy Page/Robert Plant,625502
+1656,For Your Life,136,1,Jimmy Page/Robert Plant,384391
+1657,Royal Orleans,136,1,John Bonham/John Paul Jones,179591
+1658,"Nobody's Fault But Mine",136,1,Jimmy Page/Robert Plant,376215
+1659,Candy Store Rock,136,1,Jimmy Page/Robert Plant,252055
+1660,Hots On For Nowhere,136,1,Jimmy Page/Robert Plant,284107
+1661,Tea For One,136,1,Jimmy Page/Robert Plant,566752
+1662,Rock & Roll,137,1,John Bonham/John Paul Jones/Robert Plant,242442
+1663,Celebration Day,137,1,John Paul Jones/Robert Plant,230034
+1664,The Song Remains The Same,137,1,Robert Plant,353358
+1665,Rain Song,137,1,Robert Plant,505808
+1666,Dazed And Confused,137,1,Jimmy Page,1612329
+1667,No Quarter,138,1,John Paul Jones/Robert Plant,749897
+1668,Stairway To Heaven,138,1,Robert Plant,657293
+1669,Moby Dick,138,1,John Bonham/John Paul Jones,766354
+1670,Whole Lotta Love,138,1,John Bonham/John Paul Jones/Robert Plant/Willie Dixon,863895
+1702,Are You Gonna Go My Way,141,1,Craig Ross/Lenny Kravitz,211591
+1703,Fly Away,141,1,Lenny Kravitz,221962
+1704,Rock And Roll Is Dead,141,1,Lenny Kravitz,204199
+1705,Again,141,1,Lenny Kravitz,228989
+1706,"It Ain't Over 'Til It's Over",141,1,Lenny Kravitz,242703
+1707,"Can't Get You Off My Mind",141,1,Lenny Kravitz,273815
+1708,Mr. Cab Driver,141,1,Lenny Kravitz,230321
+1709,American Woman,141,1,B. Cummings/G. Peterson/M.J. Kale/R. Bachman,261773
+1710,Stand By My Woman,141,1,Henry Kirssch/Lenny Kravitz/S. Pasch A. Krizan,259683
+1711,Always On The Run,141,1,Lenny Kravitz/Slash,232515
+1712,Heaven Help,141,1,Gerry DeVeaux/Terry Britten,190354
+1713,I Belong To You,141,1,Lenny Kravitz,257123
+1714,Believe,141,1,Henry Hirsch/Lenny Kravitz,295131
+1715,Let Love Rule,141,1,Lenny Kravitz,342648
+1716,Black Velveteen,141,1,Lenny Kravitz,290899
+1745,Pseudo Silk Kimono,144,1,"Kelly, Mosley, Rothery, Trewaves",134739
+1746,Kayleigh,144,1,"Kelly, Mosley, Rothery, Trewaves",234605
+1747,Lavender,144,1,"Kelly, Mosley, Rothery, Trewaves",153417
+1748,Bitter Suite: Brief Encounter / Lost Weekend / Blue Angel,144,1,"Kelly, Mosley, Rothery, Trewaves",356493
+1749,Heart Of Lothian: Wide Boy / Curtain Call,144,1,"Kelly, Mosley, Rothery, Trewaves",366053
+1750,Waterhole (Expresso Bongo),144,1,"Kelly, Mosley, Rothery, Trewaves",133093
+1751,Lords Of The Backstage,144,1,"Kelly, Mosley, Rothery, Trewaves",112875
+1752,Blind Curve: Vocal Under A Bloodlight / Passing Strangers / Mylo / Perimeter Walk / Threshold,144,1,"Kelly, Mosley, Rothery, Trewaves",569704
+1753,Childhoods End?,144,1,"Kelly, Mosley, Rothery, Trewaves",272796
+1754,White Feather,144,1,"Kelly, Mosley, Rothery, Trewaves",143595
+1773,Wherever I Lay My Hat,146,14,"",136986
+1774,"Get My Hands On Some Lovin'",146,14,"",149054
+1775,No Good Without You,146,14,"William 'Mickey' Stevenson",161410
+1776,"You've Been A Long Time Coming",146,14,Brian Holland/Eddie Holland/Lamont Dozier,137221
+1777,When I Had Your Love,146,14,"Robert Rogers/Warren 'Pete' Moore/William 'Mickey' Stevenson",152424
+1778,"You're What's Happening (In The World Today)",146,14,Allen Story/George Gordy/Robert Gordy,142027
+1779,Loving You Is Sweeter Than Ever,146,14,Ivy Hunter/Stevie Wonder,166295
+1780,"It's A Bitter Pill To Swallow",146,14,"Smokey Robinson/Warren 'Pete' Moore",194821
+1781,Seek And You Shall Find,146,14,"Ivy Hunter/William 'Mickey' Stevenson",223451
+1782,"Gonna Keep On Tryin' Till I Win Your Love",146,14,Barrett Strong/Norman Whitfield,176404
+1783,"Gonna Give Her All The Love I've Got",146,14,Barrett Strong/Norman Whitfield,210886
+1784,I Wish It Would Rain,146,14,Barrett Strong/Norman Whitfield/Roger Penzabene,172486
+1785,"Abraham, Martin And John",146,14,Dick Holler,273057
+1786,Save The Children,146,14,Al Cleveland/Marvin Gaye/Renaldo Benson,194821
+1787,You Sure Love To Ball,146,14,Marvin Gaye,218540
+1788,Ego Tripping Out,146,14,Marvin Gaye,314514
+1789,Praise,146,14,Marvin Gaye,235833
+1790,Heavy Love Affair,146,14,Marvin Gaye,227892
+1791,Down Under,147,1,"",222171
+1792,Overkill,147,1,"",225410
+1793,Be Good Johnny,147,1,"",216320
+1794,Everything I Need,147,1,"",216476
+1795,Down by the Sea,147,1,"",408163
+1796,Who Can It Be Now?,147,1,"",202396
+1797,"It's a Mistake",147,1,"",273371
+1798,Dr. Heckyll & Mr. Jive,147,1,"",278465
+1799,Shakes and Ladders,147,1,"",198008
+1800,No Sign of Yesterday,147,1,"",362004
+1801,Enter Sandman,148,3,"James Hetfield, Lars Ulrich and Kirk Hammett",332251
+1802,Sad But True,148,3,Ulrich,324754
+1803,Holier Than Thou,148,3,Ulrich,227892
+1804,The Unforgiven,148,3,"James Hetfield, Lars Ulrich and Kirk Hammett",387082
+1805,Wherever I May Roam,148,3,Ulrich,404323
+1806,"Don't Tread On Me",148,3,Ulrich,240483
+1807,Through The Never,148,3,"James Hetfield, Lars Ulrich and Kirk Hammett",244375
+1808,Nothing Else Matters,148,3,Ulrich,388832
+1809,Of Wolf And Man,148,3,"James Hetfield, Lars Ulrich and Kirk Hammett",256835
+1810,The God That Failed,148,3,Ulrich,308610
+1811,My Friend Of Misery,148,3,"James Hetfield, Lars Ulrich and Jason Newsted",409547
+1812,The Struggle Within,148,3,Ulrich,234240
+1813,Helpless,149,3,Harris/Tatler,398315
+1814,The Small Hours,149,3,Holocaust,403435
+1815,The Wait,149,3,Killing Joke,295418
+1816,Crash Course In Brain Surgery,149,3,Bourge/Phillips/Shelley,190406
+1817,Last Caress/Green Hell,149,3,Danzig,209972
+1818,Am I Evil?,149,3,Harris/Tatler,470256
+1819,Blitzkrieg,149,3,Jones/Sirotto/Smith,216685
+1820,Breadfan,149,3,Bourge/Phillips/Shelley,341551
+1821,The Prince,149,3,Harris/Tatler,265769
+1822,Stone Cold Crazy,149,3,Deacon/May/Mercury/Taylor,137717
+1823,So What,149,3,Culmer/Exalt,189152
+1824,Killing Time,149,3,Sweet Savage,183693
+1825,Overkill,149,3,Clarke/Kilmister/Tayler,245133
+1826,Damage Case,149,3,Clarke/Farren/Kilmister/Tayler,220212
+1827,Stone Dead Forever,149,3,Clarke/Kilmister/Tayler,292127
+1828,Too Late Too Late,149,3,Clarke/Kilmister/Tayler,192052
+1829,Hit The Lights,150,3,"James Hetfield, Lars Ulrich",257541
+1830,The Four Horsemen,150,3,"James Hetfield, Lars Ulrich, Dave Mustaine",433188
+1831,Motorbreath,150,3,James Hetfield,188395
+1832,Jump In The Fire,150,3,"James Hetfield, Lars Ulrich, Dave Mustaine",281573
+1833,(Anesthesia) Pulling Teeth,150,3,Cliff Burton,254955
+1834,Whiplash,150,3,"James Hetfield, Lars Ulrich",249208
+1835,Phantom Lord,150,3,"James Hetfield, Lars Ulrich, Dave Mustaine",302053
+1836,No Remorse,150,3,"James Hetfield, Lars Ulrich",386795
+1837,Seek & Destroy,150,3,"James Hetfield, Lars Ulrich",415817
+1838,Metal Militia,150,3,"James Hetfield, Lars Ulrich, Dave Mustaine",311327
+1839,"Ain't My Bitch",151,3,"James Hetfield, Lars Ulrich",304457
+1840,2 X 4,151,3,"James Hetfield, Lars Ulrich, Kirk Hammett",328254
+1841,The House Jack Built,151,3,"James Hetfield, Lars Ulrich, Kirk Hammett",398942
+1842,Until It Sleeps,151,3,"James Hetfield, Lars Ulrich",269740
+1843,King Nothing,151,3,"James Hetfield, Lars Ulrich, Kirk Hammett",328097
+1844,Hero Of The Day,151,3,"James Hetfield, Lars Ulrich, Kirk Hammett",261982
+1845,Bleeding Me,151,3,"James Hetfield, Lars Ulrich, Kirk Hammett",497998
+1846,Cure,151,3,"James Hetfield, Lars Ulrich",294347
+1847,Poor Twisted Me,151,3,"James Hetfield, Lars Ulrich",240065
+1848,Wasted My Hate,151,3,"James Hetfield, Lars Ulrich, Kirk Hammett",237296
+1849,Mama Said,151,3,"James Hetfield, Lars Ulrich",319764
+1850,Thorn Within,151,3,"James Hetfield, Lars Ulrich, Kirk Hammett",351738
+1851,Ronnie,151,3,"James Hetfield, Lars Ulrich",317204
+1852,The Outlaw Torn,151,3,"James Hetfield, Lars Ulrich",588721
+1853,Battery,152,3,J.Hetfield/L.Ulrich,312424
+1854,Master Of Puppets,152,3,K.Hammett,515239
+1855,The Thing That Should Not Be,152,3,K.Hammett,396199
+1856,Welcome Home (Sanitarium),152,3,K.Hammett,387186
+1857,Disposable Heroes,152,3,J.Hetfield/L.Ulrich,496718
+1858,Leper Messiah,152,3,C.Burton,347428
+1859,Orion,152,3,K.Hammett,500062
+1860,Damage Inc.,152,3,K.Hammett,330919
+1861,Fuel,153,3,"Hetfield, Ulrich, Hammett",269557
+1862,The Memory Remains,153,3,"Hetfield, Ulrich",279353
+1863,"Devil's Dance",153,3,"Hetfield, Ulrich",318955
+1864,The Unforgiven II,153,3,"Hetfield, Ulrich, Hammett",395520
+1865,Better Than You,153,3,"Hetfield, Ulrich",322899
+1866,Slither,153,3,"Hetfield, Ulrich, Hammett",313103
+1867,Carpe Diem Baby,153,3,"Hetfield, Ulrich, Hammett",372480
+1868,Bad Seed,153,3,"Hetfield, Ulrich, Hammett",245394
+1869,Where The Wild Things Are,153,3,"Hetfield, Ulrich, Newsted",414380
+1870,Prince Charming,153,3,"Hetfield, Ulrich",365061
+1871,"Low Man's Lyric",153,3,"Hetfield, Ulrich",457639
+1872,Attitude,153,3,"Hetfield, Ulrich",315898
+1873,Fixxxer,153,3,"Hetfield, Ulrich, Hammett",496065
+1874,Fight Fire With Fire,154,3,Metallica,285753
+1875,Ride The Lightning,154,3,Metallica,397740
+1876,For Whom The Bell Tolls,154,3,Metallica,311719
+1877,Fade To Black,154,3,Metallica,414824
+1878,Trapped Under Ice,154,3,Metallica,244532
+1879,Escape,154,3,Metallica,264359
+1880,Creeping Death,154,3,Metallica,396878
+1881,The Call Of Ktulu,154,3,Metallica,534883
+1882,Frantic,155,3,Bob Rock/James Hetfield/Kirk Hammett/Lars Ulrich,350458
+1883,St. Anger,155,3,Bob Rock/James Hetfield/Kirk Hammett/Lars Ulrich,441234
+1884,Some Kind Of Monster,155,3,Bob Rock/James Hetfield/Kirk Hammett/Lars Ulrich,505626
+1885,Dirty Window,155,3,Bob Rock/James Hetfield/Kirk Hammett/Lars Ulrich,324989
+1886,Invisible Kid,155,3,Bob Rock/James Hetfield/Kirk Hammett/Lars Ulrich,510197
+1887,My World,155,3,Bob Rock/James Hetfield/Kirk Hammett/Lars Ulrich,345626
+1888,Shoot Me Again,155,3,Bob Rock/James Hetfield/Kirk Hammett/Lars Ulrich,430210
+1889,Sweet Amber,155,3,Bob Rock/James Hetfield/Kirk Hammett/Lars Ulrich,327235
+1890,The Unnamed Feeling,155,3,Bob Rock/James Hetfield/Kirk Hammett/Lars Ulrich,429479
+1891,Purify,155,3,Bob Rock/James Hetfield/Kirk Hammett/Lars Ulrich,314017
+1892,All Within My Hands,155,3,Bob Rock/James Hetfield/Kirk Hammett/Lars Ulrich,527986
+1893,Blackened,156,3,"James Hetfield, Lars Ulrich & Jason Newsted",403382
+1894,...And Justice For All,156,3,"James Hetfield, Lars Ulrich & Kirk Hammett",585769
+1895,Eye Of The Beholder,156,3,"James Hetfield, Lars Ulrich & Kirk Hammett",385828
+1896,One,156,3,James Hetfield & Lars Ulrich,446484
+1897,The Shortest Straw,156,3,James Hetfield and Lars Ulrich,395389
+1898,Harvester Of Sorrow,156,3,James Hetfield and Lars Ulrich,345547
+1899,The Frayed Ends Of Sanity,156,3,"James Hetfield, Lars Ulrich and Kirk Hammett",464039
+1900,To Live Is To Die,156,3,"James Hetfield, Lars Ulrich and Cliff Burton",588564
+1901,Dyers Eve,156,3,"James Hetfield, Lars Ulrich and Kirk Hammett",313991
+1902,Springsville,157,2,J. Carisi,207725
+1903,The Maids Of Cadiz,157,2,L. Delibes,233534
+1904,The Duke,157,2,Dave Brubeck,214961
+1905,My Ship,157,2,"Ira Gershwin, Kurt Weill",268016
+1906,Miles Ahead,157,2,"Miles Davis, Gil Evans",209893
+1907,Blues For Pablo,157,2,Gil Evans,318328
+1908,New Rhumba,157,2,A. Jamal,276871
+1909,The Meaning Of The Blues,157,2,"R. Troup, L. Worth",168594
+1910,Lament,157,2,J.J. Johnson,134191
+1911,"I Don't Wanna Be Kissed (By Anyone But You)",157,2,"H. Spina, J. Elliott",191320
+1912,Springsville (Alternate Take),157,2,J. Carisi,196388
+1913,Blues For Pablo (Alternate Take),157,2,Gil Evans,212558
+1914,The Meaning Of The Blues/Lament (Alternate Take),157,2,"J.J. Johnson/R. Troup, L. Worth",309786
+1915,"I Don't Wanna Be Kissed (By Anyone But You) (Alternate Take)",157,2,"H. Spina, J. Elliott",192078
+1986,Intro,163,1,Kurt Cobain,52218
+1987,School,163,1,Kurt Cobain,160235
+1988,Drain You,163,1,Kurt Cobain,215196
+1989,Aneurysm,163,1,Nirvana,271516
+1990,Smells Like Teen Spirit,163,1,Nirvana,287190
+1991,Been A Son,163,1,Kurt Cobain,127555
+1992,Lithium,163,1,Kurt Cobain,250017
+1993,Sliver,163,1,Kurt Cobain,116218
+1994,Spank Thru,163,1,Kurt Cobain,190354
+1995,Scentless Apprentice,163,1,Nirvana,211200
+1996,Heart-Shaped Box,163,1,Kurt Cobain,281887
+1997,Milk It,163,1,Kurt Cobain,225724
+1998,Negative Creep,163,1,Kurt Cobain,163761
+1999,Polly,163,1,Kurt Cobain,149995
+2000,Breed,163,1,Kurt Cobain,208378
+2001,"Tourette's",163,1,Kurt Cobain,115591
+2002,Blew,163,1,Kurt Cobain,216346
+2003,Smells Like Teen Spirit,164,1,Kurt Cobain,301296
+2004,In Bloom,164,1,Kurt Cobain,254928
+2005,Come As You Are,164,1,Kurt Cobain,219219
+2006,Breed,164,1,Kurt Cobain,183928
+2007,Lithium,164,1,Kurt Cobain,256992
+2008,Polly,164,1,Kurt Cobain,177031
+2009,Territorial Pissings,164,1,Kurt Cobain,143281
+2010,Drain You,164,1,Kurt Cobain,223973
+2011,Lounge Act,164,1,Kurt Cobain,156786
+2012,Stay Away,164,1,Kurt Cobain,212636
+2013,On A Plain,164,1,Kurt Cobain,196440
+2014,Something In The Way,164,1,Kurt Cobain,230556
+2093,Bark at the Moon,170,1,O. Osbourne,257252
+2094,"I Don't Know",171,1,"B. Daisley, O. Osbourne & R. Rhoads",312980
+2095,Crazy Train,171,1,"B. Daisley, O. Osbourne & R. Rhoads",295960
+2096,Flying High Again,172,1,"L. Kerslake, O. Osbourne, R. Daisley & R. Rhoads",290851
+2097,"Mama, I'm Coming Home",173,1,"L. Kilmister, O. Osbourne & Z. Wylde",251586
+2098,No More Tears,173,1,"J. Purdell, M. Inez, O. Osbourne, R. Castillo & Z. Wylde",444358
+2099,"I Don't Know",174,3,"O. Osbourne, R. Daisley, R. Rhoads",283088
+2100,Crazy Train,174,3,"O. Osbourne, R. Daisley, R. Rhoads",322716
+2101,Believer,174,3,"O. Osbourne, R. Daisley, R. Rhoads",308897
+2102,Mr. Crowley,174,3,"O. Osbourne, R. Daisley, R. Rhoads",344241
+2103,Flying High Again,174,3,"O. Osbourne, R. Daisley, R. Rhoads, L. Kerslake",261224
+2104,Relvelation (Mother Earth),174,3,"O. Osbourne, R. Daisley, R. Rhoads",349440
+2105,Steal Away (The Night),174,3,"O. Osbourne, R. Daisley, R. Rhoads",485720
+2106,Suicide Solution (With Guitar Solo),174,3,"O. Osbourne, R. Daisley, R. Rhoads",467069
+2107,Iron Man,174,3,"A. F. Iommi, W. Ward, T. Butler, J. Osbourne",172120
+2108,Children Of The Grave,174,3,"A. F. Iommi, W. Ward, T. Butler, J. Osbourne",357067
+2109,Paranoid,174,3,"A. F. Iommi, W. Ward, T. Butler, J. Osbourne",176352
+2110,Goodbye To Romance,174,3,"O. Osbourne, R. Daisley, R. Rhoads",334393
+2111,No Bone Movies,174,3,"O. Osbourne, R. Daisley, R. Rhoads",249208
+2112,Dee,174,3,R. Rhoads,261302
+2125,United Colours,176,10,"Brian Eno, Bono, Adam Clayton, The Edge & Larry Mullen Jnr.",330266
+2126,Slug,176,10,"Brian Eno, Bono, Adam Clayton, The Edge & Larry Mullen Jnr.",281469
+2127,Your Blue Room,176,10,"Brian Eno, Bono, Adam Clayton, The Edge & Larry Mullen Jnr.",328228
+2128,Always Forever Now,176,10,"Brian Eno, Bono, Adam Clayton, The Edge & Larry Mullen Jnr.",383764
+2129,A Different Kind Of Blue,176,10,"Brian Eno, Bono, Adam Clayton, The Edge & Larry Mullen Jnr.",120816
+2130,Beach Sequence,176,10,"Brian Eno, Bono, Adam Clayton, The Edge & Larry Mullen Jnr.",212297
+2131,Miss Sarajevo,176,10,"Brian Eno, Bono, Adam Clayton, The Edge & Larry Mullen Jnr.",340767
+2132,Ito Okashi,176,10,"Brian Eno, Bono, Adam Clayton, The Edge & Larry Mullen Jnr.",205087
+2133,One Minute Warning,176,10,"Brian Eno, Bono, Adam Clayton, The Edge & Larry Mullen Jnr.",279693
+2134,Corpse (These Chains Are Way Too Long),176,10,"Brian Eno, Bono, Adam Clayton, The Edge & Larry Mullen Jnr.",214909
+2135,Elvis Ate America,176,10,"Brian Eno, Bono, Adam Clayton, The Edge & Larry Mullen Jnr.",180166
+2136,Plot 180,176,10,"Brian Eno, Bono, Adam Clayton, The Edge & Larry Mullen Jnr.",221596
+2137,Theme From The Swan,176,10,"Brian Eno, Bono, Adam Clayton, The Edge & Larry Mullen Jnr.",203911
+2138,"Theme From Let's Go Native",176,10,"Brian Eno, Bono, Adam Clayton, The Edge & Larry Mullen Jnr.",186723
+2149,Corduroy,178,1,Pearl Jam & Eddie Vedder,305293
+2150,Given To Fly,178,1,Eddie Vedder & Mike McCready,233613
+2151,"Hail, Hail",178,1,Stone Gossard & Eddie Vedder & Jeff Ament & Mike McCready,223764
+2152,Daughter,178,1,Dave Abbruzzese & Jeff Ament & Stone Gossard & Mike McCready & Eddie Vedder,407484
+2153,Elderly Woman Behind The Counter In A Small Town,178,1,Dave Abbruzzese & Jeff Ament & Stone Gossard & Mike McCready & Eddie Vedder,229328
+2154,Untitled,178,1,Pearl Jam,122801
+2155,MFC,178,1,Eddie Vedder,148192
+2156,Go,178,1,Dave Abbruzzese & Jeff Ament & Stone Gossard & Mike McCready & Eddie Vedder,161541
+2157,Red Mosquito,178,1,Jeff Ament & Stone Gossard & Jack Irons & Mike McCready & Eddie Vedder,242991
+2158,Even Flow,178,1,Stone Gossard & Eddie Vedder,317100
+2159,Off He Goes,178,1,Eddie Vedder,343222
+2160,Nothingman,178,1,Jeff Ament & Eddie Vedder,278595
+2161,Do The Evolution,178,1,Eddie Vedder & Stone Gossard,225462
+2162,Better Man,178,1,Eddie Vedder,246204
+2163,Black,178,1,Stone Gossard & Eddie Vedder,415712
+2164,"F*Ckin' Up",178,1,Neil Young,377652
+2165,Life Wasted,179,4,Stone Gossard,234344
+2166,World Wide Suicide,179,4,Eddie Vedder,209188
+2167,Comatose,179,4,Mike McCready & Stone Gossard,139990
+2168,Severed Hand,179,4,Eddie Vedder,270341
+2169,Marker In The Sand,179,4,Mike McCready,263235
+2170,Parachutes,179,4,Stone Gossard,216555
+2171,Unemployable,179,4,Matt Cameron & Mike McCready,184398
+2172,Big Wave,179,4,Jeff Ament,178573
+2173,Gone,179,4,Eddie Vedder,249547
+2174,Wasted Reprise,179,4,Stone Gossard,53733
+2175,Army Reserve,179,4,Jeff Ament,225567
+2176,Come Back,179,4,Eddie Vedder & Mike McCready,329743
+2177,Inside Job,179,4,Eddie Vedder & Mike McCready,428643
+2178,"Can't Keep",180,1,Eddie Vedder,219428
+2179,Save You,180,1,Eddie Vedder/Jeff Ament/Matt Cameron/Mike McCready/Stone Gossard,230112
+2180,Love Boat Captain,180,1,Eddie Vedder,276453
+2181,Cropduster,180,1,Matt Cameron,231888
+2182,Ghost,180,1,Jeff Ament,195108
+2183,I Am Mine,180,1,Eddie Vedder,215719
+2184,Thumbing My Way,180,1,Eddie Vedder,250226
+2185,You Are,180,1,Matt Cameron,270863
+2186,Get Right,180,1,Matt Cameron,158589
+2187,Green Disease,180,1,Eddie Vedder,161253
+2188,Help Help,180,1,Jeff Ament,215092
+2189,Bushleager,180,1,Stone Gossard,237479
+2190,1/2 Full,180,1,Jeff Ament,251010
+2191,Arc,180,1,Pearl Jam,65593
+2192,All or None,180,1,Stone Gossard,277655
+2193,Once,181,1,Stone Gossard,231758
+2194,Evenflow,181,1,Stone Gossard,293720
+2195,Alive,181,1,Stone Gossard,341080
+2196,Why Go,181,1,Jeff Ament,200254
+2197,Black,181,1,Dave Krusen/Stone Gossard,343823
+2198,Jeremy,181,1,Jeff Ament,318981
+2199,Oceans,181,1,Jeff Ament/Stone Gossard,162194
+2200,Porch,181,1,Eddie Vedder,210520
+2201,Garden,181,1,Jeff Ament/Stone Gossard,299154
+2202,Deep,181,1,Jeff Ament/Stone Gossard,258324
+2203,Release,181,1,Jeff Ament/Mike McCready/Stone Gossard,546063
+2204,Go,182,1,Dave Abbruzzese/Eddie Vedder/Jeff Ament/Mike McCready/Stone Gossard,193123
+2205,Animal,182,1,Dave Abbruzzese/Eddie Vedder/Jeff Ament/Mike McCready/Stone Gossard,169325
+2206,Daughter,182,1,Dave Abbruzzese/Eddie Vedder/Jeff Ament/Mike McCready/Stone Gossard,235598
+2207,Glorified G,182,1,Dave Abbruzzese/Eddie Vedder/Jeff Ament/Mike McCready/Stone Gossard,206968
+2208,Dissident,182,1,Dave Abbruzzese/Eddie Vedder/Jeff Ament/Mike McCready/Stone Gossard,215510
+2209,W.M.A.,182,1,Dave Abbruzzese/Eddie Vedder/Jeff Ament/Mike McCready/Stone Gossard,359262
+2210,Blood,182,1,Dave Abbruzzese/Eddie Vedder/Jeff Ament/Mike McCready/Stone Gossard,170631
+2211,Rearviewmirror,182,1,Dave Abbruzzese/Eddie Vedder/Jeff Ament/Mike McCready/Stone Gossard,284186
+2212,Rats,182,1,Dave Abbruzzese/Eddie Vedder/Jeff Ament/Mike McCready/Stone Gossard,255425
+2213,Elderly Woman Behind The Counter In A Small Town,182,1,Dave Abbruzzese/Eddie Vedder/Jeff Ament/Mike McCready/Stone Gossard,196336
+2214,Leash,182,1,Dave Abbruzzese/Eddie Vedder/Jeff Ament/Mike McCready/Stone Gossard,189257
+2215,Indifference,182,1,Dave Abbruzzese/Eddie Vedder/Jeff Ament/Mike McCready/Stone Gossard,302053
+2216,Johnny B. Goode,141,8,"",243200
+2217,"Don't Look Back",141,8,"",221100
+2218,Jah Seh No,141,8,"",276871
+2219,"I'm The Toughest",141,8,"",230191
+2220,Nothing But Love,141,8,"",221570
+2221,Buk-In-Hamm Palace,141,8,"",265665
+2222,Bush Doctor,141,8,"",239751
+2223,Wanted Dread And Alive,141,8,"",260310
+2224,Mystic Man,141,8,"",353671
+2225,Coming In Hot,141,8,"",213054
+2226,Pick Myself Up,141,8,"",234684
+2227,Crystal Ball,141,8,"",309733
+2228,Equal Rights Downpresser Man,141,8,"",366733
+2229,Speak To Me/Breathe,183,1,"Mason/Waters, Gilmour, Wright",234213
+2230,On The Run,183,1,"Gilmour, Waters",214595
+2231,Time,183,1,"Mason, Waters, Wright, Gilmour",425195
+2232,The Great Gig In The Sky,183,1,"Wright, Waters",284055
+2233,Money,183,1,Waters,391888
+2234,Us And Them,183,1,"Waters, Wright",461035
+2235,Any Colour You Like,183,1,"Gilmour, Mason, Wright, Waters",205740
+2236,Brain Damage,183,1,Waters,230556
+2237,Eclipse,183,1,Waters,125361
+2254,Bohemian Rhapsody,185,1,"Mercury, Freddie",358948
+2255,Another One Bites The Dust,185,1,"Deacon, John",216946
+2256,Killer Queen,185,1,"Mercury, Freddie",182099
+2257,Fat Bottomed Girls,185,1,"May, Brian",204695
+2258,Bicycle Race,185,1,"Mercury, Freddie",183823
+2259,"You're My Best Friend",185,1,"Deacon, John",172225
+2260,"Don't Stop Me Now",185,1,"Mercury, Freddie",211826
+2261,Save Me,185,1,"May, Brian",228832
+2262,Crazy Little Thing Called Love,185,1,"Mercury, Freddie",164231
+2263,Somebody To Love,185,1,"Mercury, Freddie",297351
+2264,"Now I'm Here",185,1,"May, Brian",255346
+2265,Good Old-Fashioned Lover Boy,185,1,"Mercury, Freddie",175960
+2266,Play The Game,185,1,"Mercury, Freddie",213368
+2267,Flash,185,1,"May, Brian",168489
+2268,Seven Seas Of Rhye,185,1,"Mercury, Freddie",170553
+2269,We Will Rock You,185,1,"Deacon, John/May, Brian",122880
+2270,We Are The Champions,185,1,"Mercury, Freddie",180950
+2271,We Will Rock You,186,1,May,122671
+2272,We Are The Champions,186,1,Mercury,182883
+2273,Sheer Heart Attack,186,1,Taylor,207386
+2274,"All Dead, All Dead",186,1,May,190119
+2275,Spread Your Wings,186,1,Deacon,275356
+2276,Fight From The Inside,186,1,Taylor,184737
+2277,"Get Down, Make Love",186,1,Mercury,231235
+2278,Sleep On The Sidewalk,186,1,May,187428
+2279,Who Needs You,186,1,Deacon,186958
+2280,"It's Late",186,1,May,386194
+2281,My Melancholy Blues,186,1,Mercury,206471
+2358,The Power Of Equality,193,4,Anthony Kiedis/Chad Smith/Flea/John Frusciante,243591
+2359,If You Have To Ask,193,4,Anthony Kiedis/Chad Smith/Flea/John Frusciante,216790
+2360,Breaking The Girl,193,4,Anthony Kiedis/Chad Smith/Flea/John Frusciante,295497
+2361,Funky Monks,193,4,Anthony Kiedis/Chad Smith/Flea/John Frusciante,323395
+2362,Suck My Kiss,193,4,Anthony Kiedis/Chad Smith/Flea/John Frusciante,217234
+2363,I Could Have Lied,193,4,Anthony Kiedis/Chad Smith/Flea/John Frusciante,244506
+2364,Mellowship Slinky In B Major,193,4,Anthony Kiedis/Chad Smith/Flea/John Frusciante,240091
+2365,The Righteous & The Wicked,193,4,Anthony Kiedis/Chad Smith/Flea/John Frusciante,248084
+2366,Give It Away,193,4,Anthony Kiedis/Chad Smith/Flea/John Frusciante,283010
+2367,Blood Sugar Sex Magik,193,4,Anthony Kiedis/Chad Smith/Flea/John Frusciante,271229
+2368,Under The Bridge,193,4,Anthony Kiedis/Chad Smith/Flea/John Frusciante,264359
+2369,Naked In The Rain,193,4,Anthony Kiedis/Chad Smith/Flea/John Frusciante,265717
+2370,Apache Rose Peacock,193,4,Anthony Kiedis/Chad Smith/Flea/John Frusciante,282226
+2371,The Greeting Song,193,4,Anthony Kiedis/Chad Smith/Flea/John Frusciante,193593
+2372,My Lovely Man,193,4,Anthony Kiedis/Chad Smith/Flea/John Frusciante,279118
+2373,Sir Psycho Sexy,193,4,Anthony Kiedis/Chad Smith/Flea/John Frusciante,496692
+2374,"They're Red Hot",193,4,Robert Johnson,71941
+2375,By The Way,194,1,"Anthony Kiedis, Flea, John Frusciante, and Chad Smith",218017
+2376,Universally Speaking,194,1,"Anthony Kiedis, Flea, John Frusciante, and Chad Smith",259213
+2377,This Is The Place,194,1,"Anthony Kiedis, Flea, John Frusciante, and Chad Smith",257906
+2378,Dosed,194,1,"Anthony Kiedis, Flea, John Frusciante, and Chad Smith",312058
+2379,"Don't Forget Me",194,1,"Anthony Kiedis, Flea, John Frusciante, and Chad Smith",277995
+2380,The Zephyr Song,194,1,"Anthony Kiedis, Flea, John Frusciante, and Chad Smith",232960
+2381,"Can't Stop",194,1,"Anthony Kiedis, Flea, John Frusciante, and Chad Smith",269400
+2382,I Could Die For You,194,1,"Anthony Kiedis, Flea, John Frusciante, and Chad Smith",193906
+2383,Midnight,194,1,"Anthony Kiedis, Flea, John Frusciante, and Chad Smith",295810
+2384,Throw Away Your Television,194,1,"Anthony Kiedis, Flea, John Frusciante, and Chad Smith",224574
+2385,Cabron,194,1,"Anthony Kiedis, Flea, John Frusciante, and Chad Smith",218592
+2386,Tear,194,1,"Anthony Kiedis, Flea, John Frusciante, and Chad Smith",317413
+2387,On Mercury,194,1,"Anthony Kiedis, Flea, John Frusciante, and Chad Smith",208509
+2388,Minor Thing,194,1,"Anthony Kiedis, Flea, John Frusciante, and Chad Smith",217835
+2389,Warm Tape,194,1,"Anthony Kiedis, Flea, John Frusciante, and Chad Smith",256653
+2390,Venice Queen,194,1,"Anthony Kiedis, Flea, John Frusciante, and Chad Smith",369110
+2391,Around The World,195,1,Anthony Kiedis/Chad Smith/Flea/John Frusciante,238837
+2392,Parallel Universe,195,1,Red Hot Chili Peppers,270654
+2393,Scar Tissue,195,1,Red Hot Chili Peppers,217469
+2394,Otherside,195,1,Red Hot Chili Peppers,255973
+2395,Get On Top,195,1,Red Hot Chili Peppers,198164
+2396,Californication,195,1,Red Hot Chili Peppers,321671
+2397,Easily,195,1,Red Hot Chili Peppers,231418
+2398,Porcelain,195,1,Anthony Kiedis/Chad Smith/Flea/John Frusciante,163787
+2399,Emit Remmus,195,1,Red Hot Chili Peppers,240300
+2400,I Like Dirt,195,1,Red Hot Chili Peppers,157727
+2401,This Velvet Glove,195,1,Red Hot Chili Peppers,225280
+2402,Savior,195,1,Anthony Kiedis/Chad Smith/Flea/John Frusciante,292493
+2403,Purple Stain,195,1,Red Hot Chili Peppers,253440
+2404,Right On Time,195,1,Red Hot Chili Peppers,112613
+2405,"Road Trippin'",195,1,Red Hot Chili Peppers,205635
+2406,The Spirit Of Radio,196,1,Geddy Lee And Alex Lifeson/Geddy Lee And Neil Peart/Rush,299154
+2407,The Trees,196,1,Geddy Lee And Alex Lifeson/Geddy Lee And Neil Peart/Rush,285126
+2408,Something For Nothing,196,1,Geddy Lee And Alex Lifeson/Geddy Lee And Neil Peart/Rush,240770
+2409,Freewill,196,1,Geddy Lee And Alex Lifeson/Geddy Lee And Neil Peart/Rush,324362
+2410,Xanadu,196,1,Geddy Lee And Alex Lifeson/Geddy Lee And Neil Peart/Rush,667428
+2411,Bastille Day,196,1,Geddy Lee And Alex Lifeson/Geddy Lee And Neil Peart/Rush,280528
+2412,By-Tor And The Snow Dog,196,1,Geddy Lee And Alex Lifeson/Geddy Lee And Neil Peart/Rush,519888
+2413,Anthem,196,1,Geddy Lee And Alex Lifeson/Geddy Lee And Neil Peart/Rush,264515
+2414,Closer To The Heart,196,1,Geddy Lee And Alex Lifeson/Geddy Lee And Neil Peart/Rush,175412
+2415,2112 Overture,196,1,Geddy Lee And Alex Lifeson/Geddy Lee And Neil Peart/Rush,272718
+2416,The Temples Of Syrinx,196,1,Geddy Lee And Alex Lifeson/Geddy Lee And Neil Peart/Rush,133459
+2417,La Villa Strangiato,196,1,Geddy Lee And Alex Lifeson/Geddy Lee And Neil Peart/Rush,577488
+2418,Fly By Night,196,1,Geddy Lee And Alex Lifeson/Geddy Lee And Neil Peart/Rush,202318
+2419,Finding My Way,196,1,Geddy Lee And Alex Lifeson/Geddy Lee And Neil Peart/Rush,305528
+2434,Holding Back The Years,141,1,Mick Hucknall and Neil Moss,270053
+2435,"Money's Too Tight To Mention",141,1,John and William Valentine,268408
+2436,The Right Thing,141,1,Mick Hucknall,262687
+2437,"It's Only Love",141,1,Jimmy and Vella Cameron,232594
+2438,A New Flame,141,1,Mick Hucknall,237662
+2439,"You've Got It",141,1,Mick Hucknall and Lamont Dozier,235232
+2440,"If You Don't Know Me By Now",141,1,Kenny Gamble and Leon Huff,206524
+2441,Stars,141,1,Mick Hucknall,248137
+2442,Something Got Me Started,141,1,Mick Hucknall and Fritz McIntyre,239595
+2443,Thrill Me,141,1,Mick Hucknall and Fritz McIntyre,303934
+2444,Your Mirror,141,1,Mick Hucknall,240666
+2445,For Your Babies,141,1,Mick Hucknall,256992
+2446,So Beautiful,141,1,Mick Hucknall,298083
+2447,Angel,141,1,Carolyn Franklin and Sonny Saunders,240561
+2448,Fairground,141,1,Mick Hucknall,263888
+2472,Lucky 13,201,4,Billy Corgan,189387
+2473,Aeroplane Flies High,201,4,Billy Corgan,473391
+2474,Because You Are,201,4,Billy Corgan,226403
+2475,Slow Dawn,201,4,Billy Corgan,192339
+2476,Believe,201,4,James Iha,192940
+2477,My Mistake,201,4,Billy Corgan,240901
+2478,Marquis In Spades,201,4,Billy Corgan,192731
+2479,"Here's To The Atom Bomb",201,4,Billy Corgan,266893
+2480,Sparrow,201,4,Billy Corgan,176822
+2481,Waiting,201,4,Billy Corgan,228336
+2482,Saturnine,201,4,Billy Corgan,229877
+2483,Rock On,201,4,David Cook,366471
+2484,Set The Ray To Jerry,201,4,Billy Corgan,249364
+2485,Winterlong,201,4,Billy Corgan,299389
+2486,Soot & Stars,201,4,Billy Corgan,399986
+2487,Blissed & Gone,201,4,Billy Corgan,286302
+2488,Siva,202,4,Billy Corgan,261172
+2489,Rhinocerous,202,4,Billy Corgan,353462
+2490,Drown,202,4,Billy Corgan,270497
+2491,Cherub Rock,202,4,Billy Corgan,299389
+2492,Today,202,4,Billy Corgan,202213
+2493,Disarm,202,4,Billy Corgan,198556
+2494,Landslide,202,4,Stevie Nicks,190275
+2495,Bullet With Butterfly Wings,202,4,Billy Corgan,257306
+2496,1979,202,4,Billy Corgan,263653
+2497,Zero,202,4,Billy Corgan,161123
+2498,"Tonight, Tonight",202,4,Billy Corgan,255686
+2499,Eye,202,4,Billy Corgan,294530
+2500,Ava Adore,202,4,Billy Corgan,261433
+2501,Perfect,202,4,Billy Corgan,203023
+2502,The Everlasting Gaze,202,4,Billy Corgan,242155
+2503,Stand Inside Your Love,202,4,Billy Corgan,253753
+2504,Real Love,202,4,Billy Corgan,250697
+2505,[Untitled],202,4,Billy Corgan,231784
+2506,Nothing To Say,203,1,Chris Cornell/Kim Thayil,238027
+2507,Flower,203,1,Chris Cornell/Kim Thayil,208822
+2508,Loud Love,203,1,Chris Cornell,297456
+2509,Hands All Over,203,1,Chris Cornell/Kim Thayil,362475
+2510,Get On The Snake,203,1,Chris Cornell/Kim Thayil,225123
+2511,Jesus Christ Pose,203,1,Ben Shepherd/Chris Cornell/Kim Thayil/Matt Cameron,352966
+2512,Outshined,203,1,Chris Cornell,312476
+2513,Rusty Cage,203,1,Chris Cornell,267728
+2514,Spoonman,203,1,Chris Cornell,248476
+2515,The Day I Tried To Live,203,1,Chris Cornell,321175
+2516,Black Hole Sun,203,1,Soundgarden,320365
+2517,Fell On Black Days,203,1,Chris Cornell,282331
+2518,Pretty Noose,203,1,Chris Cornell,253570
+2519,Burden In My Hand,203,1,Chris Cornell,292153
+2520,Blow Up The Outside World,203,1,Chris Cornell,347898
+2521,Ty Cobb,203,1,Ben Shepherd/Chris Cornell,188786
+2522,Bleed Together,203,1,Chris Cornell,232202
+2542,Dead And Bloated,206,1,R. DeLeo/Weiland,310386
+2543,Sex Type Thing,206,1,D. DeLeo/Kretz/Weiland,218723
+2544,Wicked Garden,206,1,D. DeLeo/R. DeLeo/Weiland,245368
+2545,No Memory,206,1,Dean Deleo,80613
+2546,Sin,206,1,R. DeLeo/Weiland,364800
+2547,Naked Sunday,206,1,D. DeLeo/Kretz/R. DeLeo/Weiland,229720
+2548,Creep,206,1,R. DeLeo/Weiland,333191
+2549,Piece Of Pie,206,1,R. DeLeo/Weiland,324623
+2550,Plush,206,1,R. DeLeo/Weiland,314017
+2551,Wet My Bed,206,1,R. DeLeo/Weiland,96914
+2552,Crackerman,206,1,Kretz/R. DeLeo/Weiland,194403
+2553,Where The River Goes,206,1,D. DeLeo/Kretz/Weiland,505991
+2554,Soldier Side - Intro,207,3,"Dolmayan, John/Malakian, Daron/Odadjian, Shavo",63764
+2555,B.Y.O.B.,207,3,"Tankian, Serj",255555
+2556,Revenga,207,3,"Tankian, Serj",228127
+2557,Cigaro,207,3,"Tankian, Serj",131787
+2558,Radio/Video,207,3,"Dolmayan, John/Malakian, Daron/Odadjian, Shavo",249312
+2559,"This Cocaine Makes Me Feel Like I'm On This Song",207,3,"Tankian, Serj",128339
+2560,Violent Pornography,207,3,"Dolmayan, John/Malakian, Daron/Odadjian, Shavo",211435
+2561,Question!,207,3,"Tankian, Serj",200698
+2562,Sad Statue,207,3,"Tankian, Serj",205897
+2563,Old School Hollywood,207,3,"Dolmayan, John/Malakian, Daron/Odadjian, Shavo",176953
+2564,Lost in Hollywood,207,3,"Tankian, Serj",320783
+2565,The Sun Road,208,1,"Terry Bozzio, Steve Stevens, Tony Levin",880640
+2566,Dark Corners,208,1,"Terry Bozzio, Steve Stevens, Tony Levin",513541
+2567,Duende,208,1,"Terry Bozzio, Steve Stevens, Tony Levin",447582
+2568,Black Light Syndrome,208,1,"Terry Bozzio, Steve Stevens, Tony Levin",526471
+2569,Falling in Circles,208,1,"Terry Bozzio, Steve Stevens, Tony Levin",549093
+2570,Book of Hours,208,1,"Terry Bozzio, Steve Stevens, Tony Levin",583366
+2571,Chaos-Control,208,1,"Terry Bozzio, Steve Stevens, Tony Levin",529841
+2572,Midnight From The Inside Out,209,6,Chris Robinson/Rich Robinson,286981
+2573,Sting Me,209,6,Chris Robinson/Rich Robinson,268094
+2574,Thick & Thin,209,6,Chris Robinson/Rich Robinson,222720
+2575,Greasy Grass River,209,6,Chris Robinson/Rich Robinson,218749
+2576,Sometimes Salvation,209,6,Chris Robinson/Rich Robinson,389146
+2577,Cursed Diamonds,209,6,Chris Robinson/Rich Robinson,368300
+2578,Miracle To Me,209,6,Chris Robinson/Rich Robinson,372636
+2579,Wiser Time,209,6,Chris Robinson/Rich Robinson,459990
+2580,Girl From A Pawnshop,209,6,Chris Robinson/Rich Robinson,404688
+2581,Cosmic Fiend,209,6,Chris Robinson/Rich Robinson,308401
+2582,Black Moon Creeping,210,6,Chris Robinson/Rich Robinson,359314
+2583,High Head Blues,210,6,Chris Robinson/Rich Robinson,371879
+2584,Title Song,210,6,Chris Robinson/Rich Robinson,505521
+2585,She Talks To Angels,210,6,Chris Robinson/Rich Robinson,361978
+2586,Twice As Hard,210,6,Chris Robinson/Rich Robinson,275565
+2587,"Lickin'",210,6,Chris Robinson/Rich Robinson,314409
+2588,Soul Singing,210,6,Chris Robinson/Rich Robinson,233639
+2589,Hard To Handle,210,6,A.Isbell/A.Jones/O.Redding,206994
+2590,Remedy,210,6,Chris Robinson/Rich Robinson,337084
+2591,White Riot,211,4,Joe Strummer/Mick Jones,118726
+2592,Remote Control,211,4,Joe Strummer/Mick Jones,180297
+2593,Complete Control,211,4,Joe Strummer/Mick Jones,192653
+2594,Clash City Rockers,211,4,Joe Strummer/Mick Jones,227500
+2595,(White Man) In Hammersmith Palais,211,4,Joe Strummer/Mick Jones,240640
+2596,Tommy Gun,211,4,Joe Strummer/Mick Jones,195526
+2597,English Civil War,211,4,Mick Jones/Traditional arr. Joe Strummer,156708
+2598,I Fought The Law,211,4,Sonny Curtis,159764
+2599,London Calling,211,4,Joe Strummer/Mick Jones,199706
+2600,Train In Vain,211,4,Joe Strummer/Mick Jones,189675
+2601,Bankrobber,211,4,Joe Strummer/Mick Jones,272431
+2602,The Call Up,211,4,The Clash,324336
+2603,Hitsville UK,211,4,The Clash,261433
+2604,The Magnificent Seven,211,4,The Clash,268486
+2605,This Is Radio Clash,211,4,The Clash,249756
+2606,Know Your Rights,211,4,The Clash,217678
+2607,Rock The Casbah,211,4,The Clash,222145
+2608,Should I Stay Or Should I Go,211,4,The Clash,187219
+2609,War (The Process),212,1,Billy Duffy/Ian Astbury,252630
+2610,The Saint,212,1,Billy Duffy/Ian Astbury,216215
+2611,Rise,212,1,Billy Duffy/Ian Astbury,219088
+2612,Take The Power,212,1,Billy Duffy/Ian Astbury,235755
+2613,Breathe,212,1,Billy Duffy/Ian Astbury/Marti Frederiksen/Mick Jones,299781
+2614,Nico,212,1,Billy Duffy/Ian Astbury,289488
+2615,American Gothic,212,1,Billy Duffy/Ian Astbury,236878
+2616,Ashes And Ghosts,212,1,Billy Duffy/Bob Rock/Ian Astbury,300591
+2617,Shape The Sky,212,1,Billy Duffy/Ian Astbury,209789
+2618,Speed Of Light,212,1,Billy Duffy/Bob Rock/Ian Astbury,262817
+2619,True Believers,212,1,Billy Duffy/Ian Astbury,308009
+2620,My Bridges Burn,212,1,Billy Duffy/Ian Astbury,231862
+2621,She Sells Sanctuary,213,1,"",253727
+2622,Fire Woman,213,1,"",312790
+2623,"Lil' Evil",213,1,"",165825
+2624,Spirit Walker,213,1,"",230060
+2625,The Witch,213,1,"",258768
+2626,Revolution,213,1,"",256026
+2627,Wild Hearted Son,213,1,"",266893
+2628,Love Removal Machine,213,1,"",257619
+2629,Rain,213,1,"",236669
+2630,Edie (Ciao Baby),213,1,"",241632
+2631,Heart Of Soul,213,1,"",274207
+2632,Love,213,1,"",326739
+2633,Wild Flower,213,1,"",215536
+2634,Go West,213,1,"",238158
+2635,Resurrection Joe,213,1,"",255451
+2636,Sun King,213,1,"",368431
+2637,Sweet Soul Sister,213,1,"",212009
+2638,Earth Mofo,213,1,"",282200
+2639,Break on Through,214,1,"Robby Krieger, Ray Manzarek, John Densmore, Jim Morrison",149342
+2640,Soul Kitchen,214,1,"Robby Krieger, Ray Manzarek, John Densmore, Jim Morrison",215066
+2641,The Crystal Ship,214,1,"Robby Krieger, Ray Manzarek, John Densmore, Jim Morrison",154853
+2642,Twentienth Century Fox,214,1,"Robby Krieger, Ray Manzarek, John Densmore, Jim Morrison",153913
+2643,Alabama Song,214,1,Weill-Brecht,200097
+2644,Light My Fire,214,1,"Robby Krieger, Ray Manzarek, John Densmore, Jim Morrison",428329
+2645,Back Door Man,214,1,"Willie Dixon, C. Burnett",214360
+2646,I Looked At You,214,1,"Robby Krieger, Ray Manzarek, John Densmore, Jim Morrison",142080
+2647,End Of The Night,214,1,"Robby Krieger, Ray Manzarek, John Densmore, Jim Morrison",172695
+2648,Take It As It Comes,214,1,"Robby Krieger, Ray Manzarek, John Densmore, Jim Morrison",137168
+2649,The End,214,1,"Robby Krieger, Ray Manzarek, John Densmore, Jim Morrison",701831
+2650,Roxanne,215,1,G M Sumner,192992
+2651,"Can't Stand Losing You",215,1,G M Sumner,181159
+2652,Message in a Bottle,215,1,G M Sumner,291474
+2653,Walking on the Moon,215,1,G M Sumner,302080
+2654,"Don't Stand so Close to Me",215,1,G M Sumner,241031
+2655,"De Do Do Do, De Da Da Da",215,1,G M Sumner,247196
+2656,Every Little Thing She Does is Magic,215,1,G M Sumner,261120
+2657,Invisible Sun,215,1,G M Sumner,225593
+2658,"Spirit's in the Material World",215,1,G M Sumner,181133
+2659,Every Breath You Take,215,1,G M Sumner,254615
+2660,King Of Pain,215,1,G M Sumner,300512
+2661,Wrapped Around Your Finger,215,1,G M Sumner,315454
+2662,"Don't Stand So Close to Me '86",215,1,G M Sumner,293590
+2663,Message in a Bottle (new classic rock mix),215,1,G M Sumner,290951
+2664,Time Is On My Side,216,1,Jerry Ragavoy,179983
+2665,Heart Of Stone,216,1,Jagger/Richards,164493
+2666,Play With Fire,216,1,Nanker Phelge,132022
+2667,Satisfaction,216,1,Jagger/Richards,226612
+2668,As Tears Go By,216,1,Jagger/Richards/Oldham,164284
+2669,Get Off Of My Cloud,216,1,Jagger/Richards,176013
+2670,"Mother's Little Helper",216,1,Jagger/Richards,167549
+2671,19th Nervous Breakdown,216,1,Jagger/Richards,237923
+2672,Paint It Black,216,1,Jagger/Richards,226063
+2673,Under My Thumb,216,1,Jagger/Richards,221387
+2674,Ruby Tuesday,216,1,Jagger/Richards,197459
+2675,"Let's Spend The Night Together",216,1,Jagger/Richards,217495
+2676,Intro,217,1,Jagger/Richards,49737
+2677,You Got Me Rocking,217,1,Jagger/Richards,205766
+2678,Gimmie Shelters,217,1,Jagger/Richards,382119
+2679,Flip The Switch,217,1,Jagger/Richards,252421
+2680,Memory Motel,217,1,Jagger/Richards,365844
+2681,Corinna,217,1,Jesse Ed Davis III/Taj Mahal,257488
+2682,Saint Of Me,217,1,Jagger/Richards,325694
+2683,Wainting On A Friend,217,1,Jagger/Richards,302497
+2684,Sister Morphine,217,1,Faithfull/Jagger/Richards,376215
+2685,Live With Me,217,1,Jagger/Richards,234893
+2686,Respectable,217,1,Jagger/Richards,215693
+2687,Thief In The Night,217,1,De Beauport/Jagger/Richards,337266
+2688,The Last Time,217,1,Jagger/Richards,287294
+2689,Out Of Control,217,1,Jagger/Richards,479242
+2690,Love Is Strong,218,1,Jagger/Richards,230896
+2691,You Got Me Rocking,218,1,Jagger/Richards,215928
+2692,Sparks Will Fly,218,1,Jagger/Richards,196466
+2693,The Worst,218,1,Jagger/Richards,144613
+2694,New Faces,218,1,Jagger/Richards,172146
+2695,Moon Is Up,218,1,Jagger/Richards,222119
+2696,Out Of Tears,218,1,Jagger/Richards,327418
+2697,I Go Wild,218,1,Jagger/Richards,264019
+2698,Brand New Car,218,1,Jagger/Richards,256052
+2699,Sweethearts Together,218,1,Jagger/Richards,285492
+2700,Suck On The Jugular,218,1,Jagger/Richards,268225
+2701,Blinded By Rainbows,218,1,Jagger/Richards,273946
+2702,Baby Break It Down,218,1,Jagger/Richards,249417
+2703,Thru And Thru,218,1,Jagger/Richards,375092
+2704,Mean Disposition,218,1,Jagger/Richards,249155
+2705,Walking Wounded,219,4,The Tea Party,277968
+2706,Temptation,219,4,The Tea Party,205087
+2707,The Messenger,219,4,Daniel Lanois,212062
+2708,Psychopomp,219,4,The Tea Party,315559
+2709,Sister Awake,219,4,The Tea Party,343875
+2710,The Bazaar,219,4,The Tea Party,222458
+2711,Save Me (Remix),219,4,The Tea Party,396303
+2712,Fire In The Head,219,4,The Tea Party,306337
+2713,Release,219,4,The Tea Party,244114
+2714,Heaven Coming Down,219,4,The Tea Party,241867
+2715,The River (Remix),219,4,The Tea Party,343170
+2716,Babylon,219,4,The Tea Party,169795
+2717,Waiting On A Sign,219,4,The Tea Party,261903
+2718,Life Line,219,4,The Tea Party,277786
+2719,Paint It Black,219,4,Keith Richards/Mick Jagger,214752
+2720,Temptation,220,4,The Tea Party,205244
+2721,Army Ants,220,4,The Tea Party,215405
+2722,Psychopomp,220,4,The Tea Party,317231
+2723,Gyroscope,220,4,The Tea Party,177711
+2724,Alarum,220,4,The Tea Party,298187
+2725,Release,220,4,The Tea Party,266292
+2726,Transmission,220,4,The Tea Party,317257
+2727,Babylon,220,4,The Tea Party,292466
+2728,Pulse,220,4,The Tea Party,250253
+2729,Emerald,220,4,The Tea Party,289750
+2730,Aftermath,220,4,The Tea Party,343745
+2731,"I Can't Explain",221,1,Pete Townshend,125152
+2732,"Anyway, Anyhow, Anywhere",221,1,"Pete Townshend, Roger Daltrey",161253
+2733,My Generation,221,1,John Entwistle/Pete Townshend,197825
+2734,Substitute,221,1,Pete Townshend,228022
+2735,"I'm A Boy",221,1,Pete Townshend,157126
+2736,Boris The Spider,221,1,John Entwistle,149472
+2737,Happy Jack,221,1,Pete Townshend,132310
+2738,Pictures Of Lily,221,1,Pete Townshend,164414
+2739,I Can See For Miles,221,1,Pete Townshend,262791
+2740,Magic Bus,221,1,Pete Townshend,197224
+2741,Pinball Wizard,221,1,John Entwistle/Pete Townshend,181890
+2742,The Seeker,221,1,Pete Townshend,204643
+2743,"Baba O'Riley",221,1,John Entwistle/Pete Townshend,309472
+2744,"Won't Get Fooled Again (Full Length Version)",221,1,John Entwistle/Pete Townshend,513750
+2745,"Let's See Action",221,1,Pete Townshend,243513
+2746,5.15,221,1,Pete Townshend,289619
+2747,Join Together,221,1,Pete Townshend,262556
+2748,Squeeze Box,221,1,Pete Townshend,161280
+2749,Who Are You (Single Edit Version),221,1,John Entwistle/Pete Townshend,299232
+2750,You Better You Bet,221,1,Pete Townshend,338520
+2926,Zoo Station,232,1,U2,276349
+2927,Even Better Than The Real Thing,232,1,U2,221361
+2928,One,232,1,U2,276192
+2929,Until The End Of The World,232,1,U2,278700
+2930,"Who's Gonna Ride Your Wild Horses",232,1,U2,316551
+2931,So Cruel,232,1,U2,349492
+2932,The Fly,232,1,U2,268982
+2933,Mysterious Ways,232,1,U2,243826
+2934,"Tryin' To Throw Your Arms Around The World",232,1,U2,232463
+2935,Ultraviolet (Light My Way),232,1,U2,330788
+2936,Acrobat,232,1,U2,270288
+2937,Love Is Blindness,232,1,U2,263497
+2938,Beautiful Day,233,1,"Adam Clayton, Bono, Larry Mullen, The Edge",248163
+2939,"Stuck In A Moment You Can't Get Out Of",233,1,"Adam Clayton, Bono, Larry Mullen, The Edge",272378
+2940,Elevation,233,1,"Adam Clayton, Bono, Larry Mullen, The Edge",227552
+2941,Walk On,233,1,"Adam Clayton, Bono, Larry Mullen, The Edge",296280
+2942,Kite,233,1,"Adam Clayton, Bono, Larry Mullen, The Edge",266893
+2943,In A Little While,233,1,"Adam Clayton, Bono, Larry Mullen, The Edge",219271
+2944,Wild Honey,233,1,"Adam Clayton, Bono, Larry Mullen, The Edge",226768
+2945,Peace On Earth,233,1,"Adam Clayton, Bono, Larry Mullen, The Edge",288496
+2946,When I Look At The World,233,1,"Adam Clayton, Bono, Larry Mullen, The Edge",257776
+2947,New York,233,1,"Adam Clayton, Bono, Larry Mullen, The Edge",330370
+2948,Grace,233,1,"Adam Clayton, Bono, Larry Mullen, The Edge",330657
+2949,The Three Sunrises,234,1,U2,234788
+2950,Spanish Eyes,234,1,U2,196702
+2951,Sweetest Thing,234,1,U2,185103
+2952,Love Comes Tumbling,234,1,U2,282671
+2953,Bass Trap,234,1,U2,213289
+2954,Dancing Barefoot,234,1,Ivan Kral/Patti Smith,287895
+2955,Everlasting Love,234,1,Buzz Cason/Mac Gayden,202631
+2956,Unchained Melody,234,1,Alex North/Hy Zaret,294164
+2957,Walk To The Water,234,1,U2,289253
+2958,Luminous Times (Hold On To Love),234,1,Brian Eno/U2,277760
+2959,Hallelujah Here She Comes,234,1,U2,242364
+2960,Silver And Gold,234,1,Bono,279875
+2961,Endless Deep,234,1,U2,179879
+2962,A Room At The Heartbreak Hotel,234,1,U2,274546
+2963,"Trash, Trampoline And The Party Girl",234,1,U2,153965
+2964,Vertigo,235,1,"Adam Clayton, Bono, Larry Mullen & The Edge",194612
+2965,Miracle Drug,235,1,"Adam Clayton, Bono, Larry Mullen & The Edge",239124
+2966,"Sometimes You Can't Make It On Your Own",235,1,"Adam Clayton, Bono, Larry Mullen & The Edge",308976
+2967,Love And Peace Or Else,235,1,"Adam Clayton, Bono, Larry Mullen & The Edge",290690
+2968,City Of Blinding Lights,235,1,"Adam Clayton, Bono, Larry Mullen & The Edge",347951
+2969,All Because Of You,235,1,"Adam Clayton, Bono, Larry Mullen & The Edge",219141
+2970,A Man And A Woman,235,1,"Adam Clayton, Bono, Larry Mullen & The Edge",270132
+2971,Crumbs From Your Table,235,1,"Adam Clayton, Bono, Larry Mullen & The Edge",303568
+2972,One Step Closer,235,1,"Adam Clayton, Bono, Larry Mullen & The Edge",231680
+2973,Original Of The Species,235,1,"Adam Clayton, Bono, Larry Mullen & The Edge",281443
+2974,Yahweh,235,1,"Adam Clayton, Bono, Larry Mullen & The Edge",262034
+2975,Discotheque,236,1,"Bono, The Edge, Adam Clayton, and Larry Mullen",319582
+2976,Do You Feel Loved,236,1,"Bono, The Edge, Adam Clayton, and Larry Mullen",307539
+2977,Mofo,236,1,"Bono, The Edge, Adam Clayton, and Larry Mullen",349178
+2978,If God Will Send His Angels,236,1,"Bono, The Edge, Adam Clayton, and Larry Mullen",322533
+2979,Staring At The Sun,236,1,"Bono, The Edge, Adam Clayton, and Larry Mullen",276924
+2980,Last Night On Earth,236,1,"Bono, The Edge, Adam Clayton, and Larry Mullen",285753
+2981,Gone,236,1,"Bono, The Edge, Adam Clayton, and Larry Mullen",266866
+2982,Miami,236,1,"Bono, The Edge, Adam Clayton, and Larry Mullen",293041
+2983,The Playboy Mansion,236,1,"Bono, The Edge, Adam Clayton, and Larry Mullen",280555
+2984,If You Wear That Velvet Dress,236,1,"Bono, The Edge, Adam Clayton, and Larry Mullen",315167
+2985,Please,236,1,"Bono, The Edge, Adam Clayton, and Larry Mullen",302602
+2986,Wake Up Dead Man,236,1,"Bono, The Edge, Adam Clayton, and Larry Mullen",292832
+2987,Helter Skelter,237,1,"Lennon, John/McCartney, Paul",187350
+2988,"Van Diemen's Land",237,1,"Bono/Clayton, Adam/Mullen Jr., Larry/The Edge",186044
+2989,Desire,237,1,"Bono/Clayton, Adam/Mullen Jr., Larry/The Edge",179226
+2990,Hawkmoon 269,237,1,"Bono/Clayton, Adam/Mullen Jr., Larry/The Edge",382458
+2991,All Along The Watchtower,237,1,"Dylan, Bob",264568
+2992,"I Still Haven't Found What I'm Looking for",237,1,"Bono/Clayton, Adam/Mullen Jr., Larry/The Edge",353567
+2993,Freedom For My People,237,1,"Mabins, Macie/Magee, Sterling/Robinson, Bobby",38164
+2994,Silver And Gold,237,1,"Bono/Clayton, Adam/Mullen Jr., Larry/The Edge",349831
+2995,Pride (In The Name Of Love),237,1,"Bono/Clayton, Adam/Mullen Jr., Larry/The Edge",267807
+2996,Angel Of Harlem,237,1,"Bono/Clayton, Adam/Mullen Jr., Larry/The Edge",229276
+2997,Love Rescue Me,237,1,"Bono/Clayton, Adam/Dylan, Bob/Mullen Jr., Larry/The Edge",384522
+2998,When Love Comes To Town,237,1,"Bono/Clayton, Adam/Mullen Jr., Larry/The Edge",255869
+2999,Heartland,237,1,"Bono/Clayton, Adam/Mullen Jr., Larry/The Edge",303360
+3000,God Part II,237,1,"Bono/Clayton, Adam/Mullen Jr., Larry/The Edge",195604
+3001,The Star Spangled Banner,237,1,"Hendrix, Jimi",43232
+3002,Bullet The Blue Sky,237,1,"Bono/Clayton, Adam/Mullen Jr., Larry/The Edge",337005
+3003,All I Want Is You,237,1,"Bono/Clayton, Adam/Mullen Jr., Larry/The Edge",390243
+3004,Pride (In The Name Of Love),238,1,U2,230243
+3005,"New Year's Day",238,1,U2,258925
+3006,With Or Without You,238,1,U2,299023
+3007,"I Still Haven't Found What I'm Looking For",238,1,U2,280764
+3008,Sunday Bloody Sunday,238,1,U2,282174
+3009,Bad,238,1,U2,351817
+3010,Where The Streets Have No Name,238,1,U2,276218
+3011,I Will Follow,238,1,U2,218253
+3012,The Unforgettable Fire,238,1,U2,295183
+3013,Sweetest Thing,238,1,"U2 & Daragh O'Toole",183066
+3014,Desire,238,1,U2,179853
+3015,When Love Comes To Town,238,1,U2,258194
+3016,Angel Of Harlem,238,1,U2,230217
+3017,All I Want Is You,238,1,U2 & Van Dyke Parks,591986
+3018,Sunday Bloody Sunday,239,1,U2,278204
+3019,Seconds,239,1,U2,191582
+3020,"New Year's Day",239,1,U2,336274
+3021,Like A Song...,239,1,U2,287294
+3022,Drowning Man,239,1,U2,254458
+3023,The Refugee,239,1,U2,221283
+3024,Two Hearts Beat As One,239,1,U2,243487
+3025,Red Light,239,1,U2,225854
+3026,Surrender,239,1,U2,333505
+3027,40,239,1,U2,157962
+3028,Zooropa,240,1,U2; Bono,392359
+3029,Babyface,240,1,U2; Bono,241998
+3030,Numb,240,1,"U2; Edge, The",260284
+3031,Lemon,240,1,U2; Bono,418324
+3032,"Stay (Faraway, So Close!)",240,1,U2; Bono,298475
+3033,"Daddy's Gonna Pay For Your Crashed Car",240,1,U2; Bono,320287
+3034,Some Days Are Better Than Others,240,1,U2; Bono,257436
+3035,The First Time,240,1,U2; Bono,225697
+3036,Dirty Day,240,1,"U2; Bono & Edge, The",324440
+3037,The Wanderer,240,1,U2; Bono,283951
+3038,Breakfast In Bed,241,8,"",196179
+3039,Where Did I Go Wrong,241,8,"",226742
+3040,I Would Do For You,241,8,"",334524
+3041,Homely Girl,241,8,"",203833
+3042,Here I Am (Come And Take Me),241,8,"",242102
+3043,Kingston Town,241,8,"",226951
+3044,Wear You To The Ball,241,8,"",213342
+3045,"(I Can't Help) Falling In Love With You",241,8,"",207568
+3046,Higher Ground,241,8,"",260179
+3047,Bring Me Your Cup,241,8,"",341498
+3048,"C'est La Vie",241,8,"",270053
+3049,Reggae Music,241,8,"",245106
+3050,Superstition,241,8,"",319582
+3051,Until My Dying Day,241,8,"",235807
+3052,Where Have All The Good Times Gone?,242,1,Ray Davies,186723
+3053,"Hang 'Em High",242,1,Alex Van Halen/David Lee Roth/Edward Van Halen/Michael Anthony,210259
+3054,Cathedral,242,1,Alex Van Halen/David Lee Roth/Edward Van Halen/Michael Anthony,82860
+3055,Secrets,242,1,Alex Van Halen/David Lee Roth/Edward Van Halen/Michael Anthony,206968
+3056,Intruder,242,1,Alex Van Halen/David Lee Roth/Edward Van Halen/Michael Anthony,100153
+3057,(Oh) Pretty Woman,242,1,Bill Dees/Roy Orbison,174680
+3058,Dancing In The Street,242,1,Ivy Jo Hunter/Marvin Gaye/William Stevenson,225985
+3059,Little Guitars (Intro),242,1,Alex Van Halen/David Lee Roth/Edward Van Halen/Michael Anthony,42240
+3060,Little Guitars,242,1,Alex Van Halen/David Lee Roth/Edward Van Halen/Michael Anthony,228806
+3061,Big Bad Bill (Is Sweet William Now),242,1,Jack Yellen/Milton Ager,165146
+3062,The Full Bug,242,1,Alex Van Halen/David Lee Roth/Edward Van Halen/Michael Anthony,201116
+3063,Happy Trails,242,1,Dale Evans,65488
+3064,Eruption,243,1,"Edward Van Halen, Alex Van Halen, David Lee Roth, Michael Anthony",102164
+3065,"Ain't Talkin' 'bout Love",243,1,"Edward Van Halen, Alex Van Halen, David Lee Roth, Michael Anthony",228336
+3066,"Runnin' With The Devil",243,1,"Edward Van Halen, Alex Van Halen, David Lee Roth, Michael Anthony",215902
+3067,Dance the Night Away,243,1,"Edward Van Halen, Alex Van Halen, David Lee Roth, Michael Anthony",185965
+3068,And the Cradle Will Rock...,243,1,"Edward Van Halen, Alex Van Halen, David Lee Roth, Michael Anthony",213968
+3069,Unchained,243,1,"Edward Van Halen, Alex Van Halen, David Lee Roth, Michael Anthony",208953
+3070,Jump,243,1,"Edward Van Halen, Alex Van Halen, David Lee Roth",241711
+3071,Panama,243,1,"Edward Van Halen, Alex Van Halen, David Lee Roth",211853
+3072,"Why Can't This Be Love",243,1,Van Halen,227761
+3073,Dreams,243,1,"Edward Van Halen, Alex Van Halen, Michael Anthony,/Edward Van Halen, Alex Van Halen, Michael Anthony, Sammy Hagar",291813
+3074,"When It's Love",243,1,"Edward Van Halen, Alex Van Halen, Michael Anthony,/Edward Van Halen, Alex Van Halen, Michael Anthony, Sammy Hagar",338991
+3075,Poundcake,243,1,"Edward Van Halen, Alex Van Halen, Michael Anthony,/Edward Van Halen, Alex Van Halen, Michael Anthony, Sammy Hagar",321854
+3076,Right Now,243,1,Van Halen,321828
+3077,"Can't Stop Loving You",243,1,Van Halen,248502
+3078,Humans Being,243,1,"Edward Van Halen, Alex Van Halen, Michael Anthony,/Edward Van Halen, Alex Van Halen, Michael Anthony, Sammy Hagar",308950
+3079,"Can't Get This Stuff No More",243,1,"Edward Van Halen, Alex Van Halen, Michael Anthony,/Edward Van Halen, Alex Van Halen, Michael Anthony, David Lee Roth",315376
+3080,Me Wise Magic,243,1,"Edward Van Halen, Alex Van Halen, Michael Anthony,/Edward Van Halen, Alex Van Halen, Michael Anthony, David Lee Roth",366053
+3081,"Runnin' With The Devil",244,1,"Edward Van Halen, Alex Van Halen, Michael Anthony and David Lee Roth",216032
+3082,Eruption,244,1,"Edward Van Halen, Alex Van Halen, Michael Anthony and David Lee Roth",102556
+3083,You Really Got Me,244,1,Ray Davies,158589
+3084,"Ain't Talkin' 'Bout Love",244,1,"Edward Van Halen, Alex Van Halen, Michael Anthony and David Lee Roth",230060
+3085,"I'm The One",244,1,"Edward Van Halen, Alex Van Halen, Michael Anthony and David Lee Roth",226507
+3086,"Jamie's Cryin'",244,1,"Edward Van Halen, Alex Van Halen, Michael Anthony and David Lee Roth",210546
+3087,Atomic Punk,244,1,"Edward Van Halen, Alex Van Halen, Michael Anthony and David Lee Roth",182073
+3088,Feel Your Love Tonight,244,1,"Edward Van Halen, Alex Van Halen, Michael Anthony and David Lee Roth",222850
+3089,Little Dreamer,244,1,"Edward Van Halen, Alex Van Halen, Michael Anthony and David Lee Roth",203258
+3090,Ice Cream Man,244,1,John Brim,200306
+3091,On Fire,244,1,"Edward Van Halen, Alex Van Halen, Michael Anthony and David Lee Roth",180636
+3092,Neworld,245,1,Van Halen,105639
+3093,Without You,245,1,Van Halen,390295
+3094,One I Want,245,1,Van Halen,330788
+3095,From Afar,245,1,Van Halen,324414
+3096,Dirty Water Dog,245,1,Van Halen,327392
+3097,Once,245,1,Van Halen,462837
+3098,Fire in the Hole,245,1,Van Halen,331728
+3099,Josephina,245,1,Van Halen,342491
+3100,Year to the Day,245,1,Van Halen,514612
+3101,Primary,245,1,Van Halen,86987
+3102,Ballot or the Bullet,245,1,Van Halen,342282
+3103,How Many Say I,245,1,Van Halen,363937
+3104,Sucker Train Blues,246,1,"Dave Kushner, Duff, Matt Sorum, Scott Weiland & Slash",267859
+3105,Do It For The Kids,246,1,"Dave Kushner, Duff, Matt Sorum, Scott Weiland & Slash",235911
+3106,Big Machine,246,1,"Dave Kushner, Duff, Matt Sorum, Scott Weiland & Slash",265613
+3107,Illegal I Song,246,1,"Dave Kushner, Duff, Matt Sorum, Scott Weiland & Slash",257750
+3108,Spectacle,246,1,"Dave Kushner, Duff, Matt Sorum, Scott Weiland & Slash",221701
+3109,Fall To Pieces,246,1,"Dave Kushner, Duff, Matt Sorum, Scott Weiland & Slash",270889
+3110,Headspace,246,1,"Dave Kushner, Duff, Matt Sorum, Scott Weiland & Slash",223033
+3111,Superhuman,246,1,"Dave Kushner, Duff, Matt Sorum, Scott Weiland & Slash",255921
+3112,Set Me Free,246,1,"Dave Kushner, Duff, Matt Sorum, Scott Weiland & Slash",247954
+3113,You Got No Right,246,1,"Dave Kushner, Duff, Matt Sorum, Scott Weiland & Slash",335412
+3114,Slither,246,1,"Dave Kushner, Duff, Matt Sorum, Scott Weiland & Slash",248398
+3115,Dirty Little Thing,246,1,"Dave Kushner, Duff, Keith Nelson, Matt Sorum, Scott Weiland & Slash",237844
+3116,Loving The Alien,246,1,"Dave Kushner, Duff, Matt Sorum, Scott Weiland & Slash",348786
+3132,Still Of The Night,141,3,Sykes,398210
+3133,Here I Go Again,141,3,Marsden,233874
+3134,Is This Love,141,3,Sykes,283924
+3135,"Love Ain't No Stranger",141,3,Galley,259395
+3136,Looking For Love,141,3,Sykes,391941
+3137,"Now You're Gone",141,3,Vandenberg,251141
+3138,Slide It In,141,3,Coverdale,202475
+3139,"Slow An' Easy",141,3,Moody,367255
+3140,Judgement Day,141,3,Vandenberg,317074
+3141,"You're Gonna Break My Hart Again",141,3,Sykes,250853
+3142,The Deeper The Love,141,3,Vandenberg,262791
+3143,Crying In The Rain,141,3,Coverdale,337005
+3144,Fool For Your Loving,141,3,Marsden/Moody,250801
+3145,Sweet Lady Luck,141,3,Vandenberg,273737
+3253,Instant Karma,255,9,"",193188
+3254,#9 Dream,255,9,"",278312
+3255,Mother,255,9,"",287740
+3256,Give Peace a Chance,255,9,"",274644
+3257,Cold Turkey,255,9,"",281424
+3258,Whatever Gets You Thru the Night,255,9,"",215084
+3259,"I'm Losing You",255,9,"",240719
+3260,Gimme Some Truth,255,9,"",232778
+3261,"Oh, My Love",255,9,"",159473
+3262,Imagine,255,9,"",192329
+3263,Nobody Told Me,255,9,"",210348
+3264,Jealous Guy,255,9,"",239094
+3265,Working Class Hero,255,9,"",265449
+3266,Power to the People,255,9,"",213018
+3267,Imagine,255,9,"",219078
+3268,Beautiful Boy,255,9,"",227995
+3269,Isolation,255,9,"",156059
+3270,Watching the Wheels,255,9,"",198645
+3271,Grow Old With Me,255,9,"",149093
+3272,Gimme Some Truth,255,9,"",187546
+3273,[Just Like] Starting Over,255,9,"",215549
+3274,God,255,9,"",260410
+3275,Real Love,255,9,"",236911
+3276,Sympton of the Universe,256,1,"",340890
+3277,Snowblind,256,1,"",295960
+3278,Black Sabbath,256,1,"",364180
+3279,Fairies Wear Boots,256,1,"",392764
+3280,War Pigs,256,1,"",515435
+3281,The Wizard,256,1,"",282678
+3282,N.I.B.,256,1,"",335248
+3283,Sweet Leaf,256,1,"",354706
+3284,Never Say Die,256,1,"",258343
+3285,"Sabbath, Bloody Sabbath",256,1,"",333622
+3286,Iron Man/Children of the Grave,256,1,"",552308
+3287,Paranoid,256,1,"",189171
+3288,Rock You Like a Hurricane,257,1,"",255766
+3289,No One Like You,257,1,"",240325
+3290,The Zoo,257,1,"",332740
+3291,Loving You Sunday Morning,257,1,"",339125
+3292,Still Loving You,257,1,"",390674
+3293,Big City Nights,257,1,"",251865
+3294,Believe in Love,257,1,"",325774
+3295,Rhythm of Love,257,1,"",231246
+3296,"I Can't Explain",257,1,"",205332
+3297,Tease Me Please Me,257,1,"",287229
+3298,Wind of Change,257,1,"",315325
+3299,Send Me an Angel,257,1,"",273041
+3336,War Pigs,260,23,"",234013
+3365,Say Hello 2 Heaven,269,23,"",384497
+3366,Reach Down,269,23,"",672773
+3367,Hunger Strike,269,23,"",246292
+3368,Pushin Forward Back,269,23,"",225278
+3369,Call Me a Dog,269,23,"",304458
+3370,Times of Trouble,269,23,"",342539
+3371,Wooden Jesus,269,23,"",250565
+3372,Your Savior,269,23,"",244226
+3373,Four Walled World,269,23,"",414474
+3374,All Night Thing,269,23,"",231803
+3375,No Such Thing,270,23,Chris Cornell,224837
+3376,Poison Eye,270,23,Chris Cornell,237120
+3377,Arms Around Your Love,270,23,Chris Cornell,214016
+3378,Safe and Sound,270,23,Chris Cornell,256764
+3379,"She'll Never Be Your Man",270,23,Chris Cornell,204078
+3380,Ghosts,270,23,Chris Cornell,231547
+3381,Killing Birds,270,23,Chris Cornell,218498
+3382,Billie Jean,270,23,Michael Jackson,281401
+3383,Scar On the Sky,270,23,Chris Cornell,220193
+3384,Your Soul Today,270,23,Chris Cornell,205959
+3385,Finally Forever,270,23,Chris Cornell,217035
+3386,Silence the Voices,270,23,Chris Cornell,267376
+3387,Disappearing Act,270,23,Chris Cornell,273320
+3388,You Know My Name,270,23,Chris Cornell,240255
+3389,Revelations,271,23,"",252376
+3390,One and the Same,271,23,"",217732
+3391,Sound of a Gun,271,23,"",260154
+3392,Until We Fall,271,23,"",230758
+3393,Original Fire,271,23,"",218916
+3394,Broken City,271,23,"",228366
+3395,Somedays,271,23,"",213831
+3396,Shape of Things to Come,271,23,"",274597
+3397,Jewel of the Summertime,271,23,"",233242
+3398,Wide Awake,271,23,"",266308
+3399,Nothing Left to Say But Goodbye,271,23,"",213041
+3400,Moth,271,23,"",298049
+3401,Show Me How to Live (Live at the Quart Festival),271,23,"",301974
+3402,"Band Members Discuss Tracks from 'Revelations'",271,23,"",294294
+3424,"Turandot, Act III, Nessun dorma!",293,24,Giacomo Puccini,176911
+3435,Cavalleria Rusticana \ Act \ Intermezzo Sinfonico,302,24,Pietro Mascagni,243436
+3453,"Pavan, Lachrimae Antiquae",319,24,John Dowland,253281
+3455,Rehab,321,14,"",213240
+3456,"You Know I'm No Good",321,14,"",256946
+3457,Me & Mr. Jones,321,14,"",151706
+3458,Just Friends,321,14,"",191933
+3459,Back to Black,321,14,Mark Ronson,240320
+3460,Love Is a Losing Game,321,14,"",154386
+3461,Tears Dry On Their Own,321,14,Nickolas Ashford & Valerie Simpson,185293
+3462,Wake Up Alone,321,14,"Paul O'duffy",221413
+3463,Some Unholy War,321,14,"",141520
+3464,He Can Only Hold Her,321,14,Richard Poindexter & Robert Poindexter,166680
+3465,"You Know I'm No Good (feat. Ghostface Killah)",321,14,"",202320
+3466,Rehab (Hot Chip Remix),321,14,"",418293
+3467,Intro / Stronger Than Me,322,9,"",234200
+3468,You Sent Me Flying / Cherry,322,9,"",409906
+3469,F**k Me Pumps,322,9,Salaam Remi,200253
+3470,I Heard Love Is Blind,322,9,"",129666
+3471,(There Is) No Greater Love (Teo Licks),322,9,Isham Jones & Marty Symes,167933
+3472,In My Bed,322,9,Salaam Remi,315960
+3473,Take the Box,322,9,Luke Smith,199160
+3474,October Song,322,9,Matt Rowe & Stefan Skarbek,204846
+3475,What Is It About Men,322,9,"Delroy 'Chris' Cooper, Donovan Jackson, Earl Chinna Smith, Felix Howard, Gordon Williams, Luke Smith, Paul Watson & Wilburn Squiddley Cole",209573
+3476,Help Yourself,322,9,"Freddy James, Jimmy hogarth & Larry Stock",300884
+3477,Amy Amy Amy (Outro),322,9,"Astor Campbell, Delroy 'Chris' Cooper, Donovan Jackson, Dorothy Fields, Earl Chinna Smith, Felix Howard, Gordon Williams, James Moody, Jimmy McHugh, Matt Rowe, Salaam Remi & Stefan Skarbek",663426
+3490,"Partita in E Major, BWV 1006A: I. Prelude",335,24,Johann Sebastian Bach,285673
+3493,"Metopes, Op. 29: Calypso",337,24,Karol Szymanowski,333669
+3497,"Erlkonig, D.328",341,24,"",261849
+3502,"Quintet for Horn, Violin, 2 Violas, and Cello in E Flat Major, K. 407/386c: III. Allegro",346,24,Wolfgang Amadeus Mozart,221331
+3503,Koyaanisqatsi,347,10,Philip Glass,206005
