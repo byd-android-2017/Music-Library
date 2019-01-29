@@ -1,4 +1,11 @@
 # Music-Library
+
+# TMS Aurelius Design
+There are three core concepts in Aurelius which define how the framework is designed and is being used:
++ **Entities**: They define the classes that correspond to the tables in the database
++ **Connection**: Defines the type of the database to be used, the chosen dialect and how the actual connection to the database takes place
++ **Object Manager**: Manages the entities and takes care of the database actions
+
 TMS Aurelius 演示范列
 
 试用后感觉功能完善，稳定。
